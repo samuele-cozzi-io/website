@@ -4,6 +4,10 @@
 My Static website
 
 
+```
+hugo server -D
+```
+
 
 - [Hugo Docs](https://gohugo.io/documentation/)
 - [PaperMod Theme](https://themes.gohugo.io/themes/hugo-papermod/)
