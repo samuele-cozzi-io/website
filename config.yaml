@@ -1,7 +1,7 @@
 baseURL: "https://samuele-cozzi.netlify.app/"
 title: "Samuele Cozzi"
 paginate: 10
-theme: PaperMod
+theme: MyPaperMod
 
 enableRobotsTXT: true
 buildDrafts: true
