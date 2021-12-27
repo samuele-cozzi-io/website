@@ -1,8 +1,15 @@
 ---
 searchHidden: true
-draft: true
+draft: false
 title: "Build my new Lapop in 2021"
 date: 2021-12-21T09:59:05+01:00
+cover:
+    image: "ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 ## Browser
