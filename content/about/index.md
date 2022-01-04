@@ -8,4 +8,11 @@ tocopen: false
 ---
 
 # Samuele Cozzi
-## test
+
+## Abstract
+
+## Skills
+
+## Projects
+
+## Latest Posts

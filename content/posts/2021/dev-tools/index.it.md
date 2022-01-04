@@ -1,5 +1,4 @@
 ---
-searchHidden: true
 draft: false
 title: "Build my new Lapop in 2021"
 date: 2021-12-21T09:59:05+01:00

@@ -63,11 +63,11 @@ params:
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
-        buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+        # buttons:
+        #     - name: Posts
+        #       url: posts
+        #     - name: Tags
+        #       url: tags
 
     # home-info mode
     homeInfoParams:
@@ -113,14 +113,26 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
+        - identifier: posts
+          name: posts
+          url: /posts/
+          weight: 1
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 1
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 5
         # - identifier: categories
         #   name: categories
         #   url: /categories/
         #   weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 20
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 20
         - identifier: about
           name: about
           url: /about/
@@ -134,3 +146,9 @@ languages:
   it:
     title: Il mio blog
     weight: 2
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

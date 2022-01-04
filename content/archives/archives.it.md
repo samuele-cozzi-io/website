@@ -1,7 +1,7 @@
 ---
 layout: archives
 summary: archives
-title: Archive
+title: Archivio
 url: /it/archives/
 ---
 
