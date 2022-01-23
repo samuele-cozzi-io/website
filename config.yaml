@@ -4,6 +4,7 @@ paginate: 10
 theme: MyPaperMod
 
 enableRobotsTXT: true
+enableEmoji: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -36,7 +37,7 @@ params:
     hidemeta: false
     hideSummary: false
     showtoc: true
-    tocopen: true
+    tocopen: false
     disableShare: true
     disableHLJS: true
 
