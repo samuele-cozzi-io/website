@@ -1,4 +1,5 @@
-
+[![Publish Website](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml/badge.svg)](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml)
+![](https://img.shields.io/badge/website-hosting-yellow?style=for-the-badge&logo=appveyor)
 
 # My Static Website
 
@@ -15,6 +16,10 @@ hugo new posts/2022/writing-my-blog/index.md
 ```shell
 hugo server -D
 ```
+
+## Deploy
+
+Use firebase `login:ci` to generate a token.
 
 ## references
 
