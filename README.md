@@ -1,5 +1,5 @@
 [![Publish Website](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml/badge.svg)](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml)
-![](https://img.shields.io/badge/website-hosting-yellow?style=for-the-badge&logo=appveyor)
+[![](https://img.shields.io/badge/website-hosting-yellow?style=flat-square&logo=appveyor)](https://samuele-cozzi.web.app/)
 
 # My Static Website
 
