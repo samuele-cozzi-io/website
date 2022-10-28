@@ -51,9 +51,9 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Blog"
+        text: "Samuele Cozzi Blog"
         icon: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/logo.svg?alt=media&token=1100c507-285e-473c-b917-3be16f9d2132"
-        iconHeight: 100
+        iconHeight: 40
 
     # profile-mode
     profileMode:
@@ -122,10 +122,10 @@ menu:
           name: search
           url: /search/
           weight: 1
-        - identifier: archives
-          name: archives
-          url: /archives/
-          weight: 5
+        # - identifier: archives
+        #   name: archives
+        #   url: /archives/
+        #   weight: 5
         # - identifier: categories
         #   name: categories
         #   url: /categories/
