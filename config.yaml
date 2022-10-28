@@ -60,7 +60,7 @@ params:
         enabled: true # needs to be explicitly set
         title: "Samuele Cozzi"
         subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        imageUrl: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/logo.svg?alt=media&token=031aaa14-b026-4141-8bcd-65c0dc9b0a82"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
