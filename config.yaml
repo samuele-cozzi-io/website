@@ -60,7 +60,7 @@ params:
         enabled: true # needs to be explicitly set
         title: "Samuele Cozzi"
         subtitle: "Siamo noi a esistere nel tempo o il tempo esiste in noi?"
-        imageUrl: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/logo.svg?alt=media&token=1100c507-285e-473c-b917-3be16f9d2132"
+        imageUrl: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/avatars%2FToonTap_20221102_160413970.jpg?alt=media&token=e9d47082-c147-4fab-ad5f-b88168313ca5"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
@@ -85,7 +85,7 @@ params:
 
     analytics:
         google:
-            SiteVerificationTag: "G-7H60CZYL0T"
+            SiteVerificationTag: "G-XYJPRKC5L3"
         # bing:
         #     SiteVerificationTag: "XYZabc"
         # yandex:

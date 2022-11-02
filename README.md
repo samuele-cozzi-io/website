@@ -2,12 +2,20 @@
 [![](https://img.shields.io/badge/website-console-yellow?style=flat-square&logo=appveyor)](https://console.firebase.google.com/project/samuele-cozzi/overview)
 [![Publish Website](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml/badge.svg)](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml) 
 
-
 # My Static Website
 
 My Static website
 
-## new post
+## develop locally
+
+### prepare 
+
+```shell
+git clone <repo>
+git submodule update --init --recursive
+```
+
+### new post
 
 ```shell
 hugo new posts/2022/writing-my-blog/index.md
