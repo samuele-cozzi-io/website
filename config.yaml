@@ -121,11 +121,11 @@ menu:
         - identifier: search
           name: search
           url: /search/
-          weight: 1
-        # - identifier: archives
-        #   name: archives
-        #   url: /archives/
-        #   weight: 5
+          weight: 2
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 5
         # - identifier: categories
         #   name: categories
         #   url: /categories/
@@ -134,19 +134,12 @@ menu:
         #   name: tags
         #   url: /tags/
         #   weight: 20
-        - identifier: about
-          name: about
-          url: /about/
-          weight: 30
 
 defaultContentLanguage: en
 languages:
   en:
     title: My blog
     weight: 1
-  it:
-    title: Il mio blog
-    weight: 2
 
 outputs:
     home:

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Build my new Lapop in 2021"
+title: "Build my new Laptop in 2021"
 date: 2021-12-21T09:59:05+01:00
 cover:
     image: "ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
