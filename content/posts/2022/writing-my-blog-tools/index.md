@@ -1,7 +1,8 @@
 ---
-draft: true
+draft: false
 title: "Mastering the Art: How to Write a Good Blog Post"
 date: 2023-11-28T14:54:08Z
+tags: ["writing"]
 cover:
     image: "cover.excalidraw.png"
     alt: "Obsidian + Marp"
@@ -42,14 +43,16 @@ There are numerous tools available that can assist you in various aspects of wri
 
 ### Creating Visuals
 
-- **Canva:** Design eye-catching graphics, featured images, and social media visuals for your blog post.
-- **Unsplash or Pixabay:** Access high-quality, royalty-free images to enhance the visual appeal of your blog post.
+- **[Canva](https://www.canva.com):** Design eye-catching graphics, featured images, and social media visuals for your blog post.
+- **[Excalidraw](https://excalidraw.com):** is an open-source collaborative drawing tool that allows users to create diagrams, sketches, and visualizations in real-time with simplicity and ease of use.
+- **[Unsplash](https://unsplash.com/):** Access high-quality, royalty-free images to enhance the visual appeal of your blog post.
+- **[Svg Repo](https://www.svgrepo.com/):** is a platform that provides a vast collection of high-quality SVG icons for free, offering a valuable resource for designers and developers seeking customizable vector graphics for various projects.
 
 ### Content Distribution and Analytics
 
-- **Medium:** Republish your blog posts on Medium to reach a wider audience and tap into a different readership.
-- **Buffer or Hootsuite:** Schedule and manage social media posts to promote your blog content effectively.
-- **Bitly:** Shorten and customize URLs for sharing on social media, while also providing tracking analytics.
-- **Google Analytics:** Monitor the performance of your blog post, track visitor behavior, and gain insights into your audience.
+- **[Medium](https://medium.com/):** Republish your blog posts on Medium to reach a wider audience and tap into a different readership.
+- **[Buffer](https://publish.buffer.com):** Schedule and manage social media posts to promote your blog content effectively.
+- **[Bitly](https://bitly.com/):** Shorten and customize URLs for sharing on social media, while also providing tracking analytics.
+- **[Google Analytics](https://marketingplatform.google.com/home):** Monitor the performance of your blog post, track visitor behaviour, and gain insights into your audience.
 
 Remember, while tools can significantly enhance your blogging experience, the most crucial element is your creativity and authenticity. Experiment with different tools to find what works best for your writing process and style.

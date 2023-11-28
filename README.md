@@ -1,6 +1,4 @@
-[![](https://img.shields.io/badge/website-hosting-yellow?style=flat-square&logo=appveyor)](https://samuele-cozzi.web.app/) 
-[![](https://img.shields.io/badge/website-console-yellow?style=flat-square&logo=appveyor)](https://console.firebase.google.com/project/samuele-cozzi/overview)
-[![Publish Website](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml/badge.svg)](https://github.com/samuele-cozzi-io/website/actions/workflows/main.yml) 
+[![](https://img.shields.io/badge/website-hosting-yellow?style=flat-square&logo=appveyor)](https://samuele-cozzi-io.github.io/website/) [![](https://img.shields.io/badge/website-console-yellow?style=flat-square&logo=appveyor)](https://analytics.google.com/analytics/web/?authuser=0#/p417542997/reports/intelligenthome?params=_u..nav%3Dmaui)
 
 # My Static Website
 

@@ -2,6 +2,7 @@
 draft: false
 title: "Obsidian + Marp: Elevating Note Presentations (without Power Point)"
 date: 2023-11-28T10:47:03Z
+tags: ["markdown", "notes"]
 cover:
     image: "cover.excalidraw.png"
     alt: "Obsidian + Marp"

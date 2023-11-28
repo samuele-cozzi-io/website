@@ -44,23 +44,23 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/apps-icon%2Flogo.ico?alt=media&token=bc9c13ab-2e0d-4247-874c-5d7213086607"
-        favicon16x16: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/apps-icon%2F16x16.png?alt=media&token=1e2b1bbd-adad-42af-844a-b0ed496baccc"
-        favicon32x32: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/apps-icon%2F32x32.png?alt=media&token=69f18cca-ba9c-4bd0-93fa-8595717c6ab6"
-        apple_touch_icon: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/apps-icon%2FAppIcon86x86%402x.png?alt=media&token=8ea9bb0d-05b2-4390-a4c0-0dfccadb2f66"
-        safari_pinned_tab: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/apps-icon%2FAppIcon40x40%402x.png?alt=media&token=cf8c0447-7937-4eb1-a9d2-ffee5663a44a"
+        favicon: "/imgs/logo/logo.ico"
+        favicon16x16: "/imgs/logo/16x16.png"
+        favicon32x32: "/imgs/logo/32x32.png"
+        apple_touch_icon: "/imgs/logo/AppIcon86x86@2x.png"
+        safari_pinned_tab: "/imgs/logo/AppIcon40x40@2x.png"
 
     label:
         text: "Samuele Cozzi Blog"
-        icon: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/logo.svg?alt=media&token=1100c507-285e-473c-b917-3be16f9d2132"
+        icon: "/imgs/logo/AppIcon40x40@2x.png"
         iconHeight: 40
 
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
         title: "Samuele Cozzi"
-        subtitle: "Siamo noi a esistere nel tempo o il tempo esiste in noi?"
-        imageUrl: "https://firebasestorage.googleapis.com/v0/b/samuele-cozzi.appspot.com/o/avatars%2FToonTap_20221102_160413970.jpg?alt=media&token=e9d47082-c147-4fab-ad5f-b88168313ca5"
+        subtitle: ""
+        imageUrl: "/imgs/avatar.jpg"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
@@ -78,10 +78,10 @@ params:
     socialIcons:
         - name: linkedin
           url: "https://www.linkedin.com/in/samuele-cozzi-02650119"
-        - name: twitter
-          url: "https://twitter.com/samu_tech"
         - name: github
           url: "https://github.com/samuele-cozzi"
+        #- name: medium
+        #  url: "https://twitter.com/samu_tech"
 
     analytics:
         google:

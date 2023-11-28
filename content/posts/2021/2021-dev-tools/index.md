@@ -1,7 +1,8 @@
 ---
 draft: false
 title: "Build my new Laptop in 2021"
-date: 2021-12-21T09:59:05+01:00
+date: 2021-12-21
+tags: ["developer"]
 cover:
     image: "ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
     # can also paste direct link from external site
