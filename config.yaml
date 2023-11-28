@@ -44,15 +44,15 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "/imgs/logo/logo.ico"
-        favicon16x16: "/imgs/logo/16x16.png"
-        favicon32x32: "/imgs/logo/32x32.png"
-        apple_touch_icon: "/imgs/logo/AppIcon86x86@2x.png"
-        safari_pinned_tab: "/imgs/logo/AppIcon40x40@2x.png"
+        favicon: "imgs/logo/logo.ico"
+        favicon16x16: "imgs/logo/16x16.png"
+        favicon32x32: "imgs/logo/32x32.png"
+        apple_touch_icon: "imgs/logo/AppIcon86x86@2x.png"
+        safari_pinned_tab: "imgs/logo/AppIcon40x40@2x.png"
 
     label:
         text: "Samuele Cozzi Blog"
-        icon: "/imgs/logo/AppIcon40x40@2x.png"
+        icon: "imgs/logo/AppIcon40x40@2x.png"
         iconHeight: 40
 
     # profile-mode
@@ -60,7 +60,7 @@ params:
         enabled: true # needs to be explicitly set
         title: "Samuele Cozzi"
         subtitle: ""
-        imageUrl: "/imgs/avatar.jpg"
+        imageUrl: "imgs/avatar.jpg"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
