@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100" height="100" viewBox="0 0 100 100" xml:space="preserve">
+    <desc>Logo Samuele Cozzi</desc>
+    <defs>
+    </defs>
+    <style>
+    .primary { fill:#000 }
+    .secondary { fill:#ff5500 }
+    .third { fill:#fff }
+    </style>
+    <rect x="0" y="0" width="100" height="100" class="third"/>
+
+    <rect x="0" y="0" width="50" height="50" class="primary"/>
+    <rect x="0" y="50" width="50" height="50" class="primary"/>
+    <rect x="50" y="50" width="50" height="50" class="primary"/>
+
+    <rect x="50" y="0" width="25" height="25" class="primary"/>
+    <rect x="50" y="25" width="25" height="25" class="primary"/>
+    <rect x="75" y="25" width="25" height="25" class="primary"/>
+
+    <circle cx="75" cy="25" r="25" class="primary"/>
+
+    <rect x="25" y="25" width="50" height="50" class="secondary"/>
+</svg>

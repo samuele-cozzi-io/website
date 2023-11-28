@@ -1,4 +1,4 @@
-baseURL: "https://samuele-cozzi.web.app/"
+baseURL: "https://samuele-cozzi-io.github.io/website/"
 title: "Samuele Cozzi"
 paginate: 10
 theme: MyPaperMod
@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-XYJPRKC5L3
+googleAnalytics: G-4ZEPW1ZG79
 
 minify:
     disableXML: true
