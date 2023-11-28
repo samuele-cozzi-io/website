@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Samuele Cozzi</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Samuele Cozzi</description>
+    <title>Posts on My blog</title>
+    <link>https://samuele-cozzi.web.app/posts/</link>
+    <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Nov 2021 19:50:49 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Dec 2021 09:59:05 +0100</lastBuildDate>
+    <atom:link href="https://samuele-cozzi.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Mon, 29 Nov 2021 19:50:49 +0100</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <title>Build my new Laptop in 2021</title>
+      <link>https://samuele-cozzi.web.app/posts/2021/2021-dev-tools/</link>
+      <pubDate>Tue, 21 Dec 2021 09:59:05 +0100</pubDate>
+      <guid>https://samuele-cozzi.web.app/posts/2021/2021-dev-tools/</guid>
+      <description>Browser A web browser is application software for accessing the World Wide Web. When a user requests a web page from a particular website, the web browser retrieves the necessary content from a web server and then displays the page on the user&amp;rsquo;s device. wiki
+Microsoft Edge Firefox Browser Extensions Raindrop.io : All-in-one bookmark manager. Intuitive. Powerful. Runs everywhere. LastPass: Password Management from Anywhere Save to Trello: Bring the power of a visual perspective to your team Firefox Multi-Account Container: The Firefox Multi-Account Containers extension lets you carve out a separate box for each of your online lives – no more opening a different browser just to check your work email!</description>
     </item>
-    
   </channel>
 </rss>

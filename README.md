@@ -25,6 +25,9 @@ hugo new posts/2022/writing-my-blog/index.md
 
 ```shell
 hugo server -D
+
+# on Codespace
+hugo server -D -b "https://{githubUrl}" --appendPort=false
 ```
 
 ## Deploy
