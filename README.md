@@ -6,7 +6,7 @@ My Static website
 
 ## develop locally
 
-### prepare 
+### prepare
 
 ```shell
 git clone <repo>
