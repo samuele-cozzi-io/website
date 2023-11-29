@@ -1,7 +1,7 @@
 baseURL: "https://samuele-cozzi-io.github.io/website/"
 title: "Samuele Cozzi"
 paginate: 10
-theme: MyPaperMod
+theme: PaperMod
 
 enableRobotsTXT: true
 enableEmoji: true
