@@ -46,11 +46,11 @@ Using [Markdown](https://www.markdownguide.org/) for personal knowledge manageme
 
 The magic happens when Obsidian and Marp join forces. Users can effortlessly turn their well-organized Obsidian notes into captivating Marp presentations, providing a streamlined process for transforming ideas into impactful presentations.
 
-![Create Slides](CreateSlides.gif)
+{{< figure align=center src="CreateSlides.gif" >}}
 
 The synergy between Marp and Obsidian creates a holistic workflow for individuals who value both the creation and presentation aspects of knowledge sharing. The fluid transition from note-taking to presentation design enhances productivity and creativity.
 
-![Presenting Deck](Presenting.gif)
+{{< figure align=center src="Presenting.gif" >}}
 
 By combining the strengths of Marp and Obsidian, users can elevate their presentations to new heights. The clarity of thought facilitated by Obsidian seamlessly transitions into the visually compelling narratives crafted by Marp, resulting in presentations that captivate and resonate with audiences.
 

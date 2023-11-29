@@ -53,6 +53,7 @@ There are numerous tools available that can assist you in various aspects of wri
 - **[Medium](https://medium.com/):** Republish your blog posts on Medium to reach a wider audience and tap into a different readership.
 - **[Buffer](https://publish.buffer.com):** Schedule and manage social media posts to promote your blog content effectively.
 - **[Bitly](https://bitly.com/):** Shorten and customize URLs for sharing on social media, while also providing tracking analytics.
+- **[Google Search Console](https://search.google.com/search-console):**  is a free web service provided by Google that allows website owners, administrators, and webmasters to monitor and optimize the presence of their websites in Google's search results. Formerly known as Google Webmaster Tools, the platform was rebranded as Google Search Console in 2015
 - **[Google Analytics](https://marketingplatform.google.com/home):** Monitor the performance of your blog post, track visitor behaviour, and gain insights into your audience.
 
 Remember, while tools can significantly enhance your blogging experience, the most crucial element is your creativity and authenticity. Experiment with different tools to find what works best for your writing process and style.
