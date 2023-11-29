@@ -13,6 +13,12 @@ git clone <repo>
 git submodule update --init --recursive
 ```
 
+### Update submodule
+
+```shell
+git submodule update --remote --merge
+```
+
 ### new post
 
 ```shell
