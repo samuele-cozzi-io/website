@@ -138,7 +138,7 @@ menu:
 defaultContentLanguage: en
 languages:
   en:
-    title: My blog
+    title: Samuele Cozzi Blog
     weight: 1
 
 outputs:

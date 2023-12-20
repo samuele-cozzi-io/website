@@ -30,7 +30,7 @@ intro ...
 
 ```
 
-![2.columns](<Sample Minimal.007.png>)
+![2.columns](<attachments/Sample Minimal.007.png>)
 
 ## 2 Columns with Images
 
@@ -50,7 +50,7 @@ intro ...
 
 ```
 
-![2.columns.images](<Sample Minimal.008.png>)
+![2.columns.images](<attachments/Sample Minimal.008.png>)
 
 ## 3 Columns
 
@@ -74,7 +74,7 @@ intro ...
 
 ```
 
-![3.columns](<Sample Minimal.009.png>)
+![3.columns](<attachments/Sample Minimal.009.png>)
 
 ## 4 columns
 
@@ -103,7 +103,7 @@ intro ...
 
 ```
 
-![4.columns](<Sample Minimal.010.png>)
+![4.columns](<attachments/Sample Minimal.010.png>)
 
 ## 6 blocks
 
@@ -138,7 +138,7 @@ intro ...
 
 ```
 
-![6.blocks](<Sample Minimal.011.png>)
+![6.blocks](<attachments/Sample Minimal.011.png>)
 
 ## 8 blocks
 
@@ -179,4 +179,4 @@ intro ...
 
 ```
 
-![8.blocks](<Sample Minimal.012.png>)
+![8.blocks](<attachments/Sample Minimal.012.png>)

@@ -37,7 +37,7 @@ YYYY/MM/DD
 ---
 ```
 
-![Lead](<Sample Minimal.001.png>)
+![Lead](<attachments/Sample Minimal.001.png>)
 
 ### Agenda
 
@@ -60,7 +60,7 @@ The title slide has the `divider` class.
 ---
 ```
 
-![Agenda](<Sample Minimal.002.png>)
+![Agenda](<attachments/Sample Minimal.002.png>)
 
 ### Section Title
 
@@ -78,7 +78,7 @@ Section Details
 ---
 ```
 
-![Section](<Sample Minimal.004.png>)
+![Section](<attachments/Sample Minimal.004.png>)
 
 ## Content Slides
 
@@ -106,7 +106,7 @@ Text
 ---
 ```
 
-![Content](<Sample Minimal.005.png>)
+![Content](<attachments/Sample Minimal.005.png>)
 
 ### Text and Picture Slide
 
@@ -126,7 +126,7 @@ text
 ---
 ```
 
-![Image-Text](<Sample Minimal.006.png>)
+![Image-Text](<attachments/Sample Minimal.006.png>)
 
 ### Picture Slide
 
@@ -144,7 +144,7 @@ The picture slide template is the visual that places emphasis with a minimalist 
 ---
 ```
 
-![Image](<Sample Minimal.013.png>)
+![Image](<attachments/Sample Minimal.013.png>)
 
 ### Table Slide
 
@@ -164,7 +164,7 @@ The table slide template is a practical and efficient tool for presenting organi
 ---
 ```
 
-![Table](<Sample Minimal.014.png>)
+![Table](<attachments/Sample Minimal.014.png>)
 
 ### Quote Slide
 
@@ -181,7 +181,7 @@ The quota slide template serves as a focused space to highlight key quotes or im
 ---
 ```
 
-![Quote](<Sample Minimal.015.png>)
+![Quote](<attachments/Sample Minimal.015.png>)
 
 ### Code Slide
 
@@ -240,7 +240,7 @@ The code slide template is a dedicated space for presenting programming code, of
 ---
 ```
 
-![Code](<Sample Minimal.017.png>)
+![Code](<attachments/Sample Minimal.017.png>)
 
 ### Math Slide
 
@@ -268,7 +268,7 @@ Conclusion
 ---
 ```
 
-![Math](<Sample Minimal.018.png>)
+![Math](<attachments/Sample Minimal.018.png>)
 
 ## Closing Slide
 
@@ -289,8 +289,7 @@ www.author.com
 ---
 ```
 
-![End](<Sample Minimal.020.png>)
-
+![End](<attachments/Sample Minimal.020.png>)
 
 ## Conclusion
 

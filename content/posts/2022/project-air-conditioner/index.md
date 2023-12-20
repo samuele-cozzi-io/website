@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Air Conditioner Azure Controller"
 date: 2023-12-20T14:27:04Z
 tags: ["project", "azure", "home automation"]
