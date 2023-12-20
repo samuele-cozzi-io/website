@@ -59,7 +59,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: "Samuele Cozzi"
-        subtitle: ""
+        subtitle: "Ma io, non vi domando del nome, ma dell'essenza della cosa"
         imageUrl: "https://samuele-cozzi-io.github.io/website/imgs/avatar.jpg"
         imageWidth: 120
         imageHeight: 120
@@ -76,12 +76,12 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: linkedin
-          url: "https://www.linkedin.com/in/samuele-cozzi-02650119"
         - name: github
           url: "https://github.com/samuele-cozzi"
-        #- name: medium
-        #  url: "https://twitter.com/samu_tech"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/samuele-cozzi-02650119"
+        - name: medium
+          url: "https://medium.com/@samu_tech"
 
     analytics:
         google:
@@ -122,10 +122,10 @@ menu:
           name: search
           url: /search/
           weight: 2
-        - identifier: archives
-          name: archives
-          url: /archives/
-          weight: 5
+        # - identifier: archives
+        #   name: archives
+        #   url: /archives/
+        #   weight: 5
         # - identifier: categories
         #   name: categories
         #   url: /categories/
