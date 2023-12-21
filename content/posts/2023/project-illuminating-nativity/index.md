@@ -71,6 +71,14 @@ The combination of FastLED and PlatformIO ensures smooth and responsive control 
 
 ![](attachments/Pasted%20image%2020231220120230.png)
 
+**Math Notes**
+
+{{< rawhtml >}}
+<embed src= 'attachments/day-night-cycle.pdf' width= '100%' height= '400px' type='application/pdf' />
+{{</ rawhtml >}}
+
+[ipynb](attachments/day-night-cycle.ipynb)
+
 ## Further information
 
 - [Hackster Project](https://www.hackster.io/samuele-cozzi/illuminating-the-nativity-scene-for-christmas-7d1d88)
