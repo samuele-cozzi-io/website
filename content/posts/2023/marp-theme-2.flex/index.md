@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Unleashing HTML & CSS Creativity: Explore Minimal Turquoise Marp  Template - The Flex"
 date: 2023-11-30T16:03:08Z
 cover:
@@ -9,7 +9,17 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-intro ...
+{{< badge text="Marp" icon="images" href= "https://marp.app/" >}}
+
+{{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}
+
+{{< badge text="Obsidian Plugin" icon="tools" href= "https://github.com/samuele-cozzi/obsidian-marp-slides" >}}
+
+---
+
+In this blog post, we will delve into the features that set my Marp template apart, exploring how it seamlessly blends aesthetics with functionality to elevate your presentations to new heights. Whether you're aiming for a sleek corporate pitch, an engaging educational session, or a visually stunning project update, our template is your go-to resource for creating a lasting impression.
+
+Let's embark on a visual voyage that transforms the way you share ideas and captivates your audience from the very first slide.
 
 ## 2 Columns
 
@@ -180,3 +190,9 @@ intro ...
 ```
 
 ![8.blocks](<attachments/Sample Minimal.012.png>)
+
+## References
+
+- [Marp](https://marp.app/)
+- [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+- [Obsidian Plugin](https://github.com/samuele-cozzi/obsidian-marp-slides)

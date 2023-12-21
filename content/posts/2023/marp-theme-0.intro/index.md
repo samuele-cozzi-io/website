@@ -9,6 +9,14 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
+{{< badge text="Marp" icon="images" href= "https://marp.app/" >}}
+
+{{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}
+
+{{< badge text="Obsidian Plugin" icon="tools" href= "https://github.com/samuele-cozzi/obsidian-marp-slides" >}}
+
+---
+
 In the dynamic world of presentations, Marp has been a game-changer for those seeking simplicity, flexibility, and elegance in their slideshows. As Marp enthusiasts eagerly embrace its user-friendly features, a new theme has emerged, promising to take presentations to a whole new level. I have develop this marp theme trying to approach with minimal design but implementing all the basics slide template.
 
 {{< rawhtml >}}
@@ -238,3 +246,9 @@ You can customize root color variables of the theme with your preferred palette:
 ## Unlocking the Potential of Your Ideas
 
 Ultimately, the new theme for Marp is not just about aesthetics; it's about unlocking the potential of your ideas. Whether you're a designer, educator, or business professional, this theme empowers you to convey your message with impact. The fusion of visual appeal, customization, and functionality creates an environment where your creativity can truly shine.
+
+## References
+
+- [Marp](https://marp.app/)
+- [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+- [Obsidian Plugin](https://github.com/samuele-cozzi/obsidian-marp-slides)

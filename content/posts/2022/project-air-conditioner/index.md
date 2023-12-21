@@ -1,13 +1,23 @@
 ---
 draft: false
 title: "Air Conditioner Azure Controller"
-date: 2023-12-20T14:27:04Z
-tags: ["project", "azure", "home automation"]
+date: 2022-09-01
+tags: ["Projects", "azure", "home automation"]
 cover:
     image: "attachments/_RWGl88BkQx.avif"
     alt: "Air Conditioner Azure Controller"
     caption: "Air Conditioner Azure Controller"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
+---
+
+{{< badge text="IoT Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-iothub" >}}
+
+{{< badge text="Functions Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-func" >}}
+
+{{< badge text="UI Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-ui" >}}
+
+{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f" >}}
+
 ---
 
 The goal of the project is to control the air conditioner from the internet and in an automatic way.
@@ -165,3 +175,7 @@ The static web app is a web application to set up the system, visualize real-tim
 In the power bi platform, the historic data are stored. A report is built to show data (temperature and humidity) over time.
 
 ![Alt text](attachments/pasted_image_20221204095031_CUMEybELyn.png)
+
+## Further information
+
+- [Hackster Project](https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f)

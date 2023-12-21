@@ -1,7 +1,7 @@
 baseURL: "https://samuele-cozzi-io.github.io/website/"
-title: "Samuele Cozzi"
+title: "Samuele's Space"
 paginate: 10
-theme: PaperMod
+theme: [ "hugo-shortcode-roneo-button-icon-badge",PaperMod]
 
 enableRobotsTXT: true
 enableEmoji: true
@@ -17,7 +17,7 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: "Samuele Cozzi"
+    title: "Samuele's Space"
     description: "The Samuele Cozzi Blog"
     keywords: [Blog, Portfolio, PaperMod]
     #author: Me
@@ -35,7 +35,7 @@ params:
     disableScrollToTop: false
     comments: false
     hidemeta: false
-    hideSummary: false
+    hideSummary: true
     showtoc: true
     tocopen: false
     disableShare: true
@@ -51,7 +51,7 @@ params:
         safari_pinned_tab: "https://samuele-cozzi-io.github.io/website/imgs/logo/AppIcon40x40@2x.png"
 
     label:
-        text: "Samuele Cozzi Blog"
+        text: "Samuele's Space"
         icon: "https://samuele-cozzi-io.github.io/website/imgs/logo/AppIcon40x40@2x.png"
         iconHeight: 40
 
@@ -122,6 +122,10 @@ menu:
           name: search
           url: /search/
           weight: 2
+        - identifier: projects
+          name: projects
+          url: /tags/projects/
+          weight: 3
         # - identifier: archives
         #   name: archives
         #   url: /archives/
@@ -138,7 +142,7 @@ menu:
 defaultContentLanguage: en
 languages:
   en:
-    title: Samuele Cozzi Blog
+    title: Samuele's Space
     weight: 1
 
 outputs:
