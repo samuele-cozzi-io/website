@@ -59,7 +59,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: "Samuele Cozzi"
-        subtitle: "Ma io, non vi domando del nome, ma dell'essenza della cosa"
+        subtitle: "Quod super est, vacuas auris animumque sagacem semotum a curis adhibe veram ad rationem, ne mea dona tibi studio disposta fideli, intellecta prius quam sint, contempta relinquas."
         imageUrl: "https://samuele-cozzi-io.github.io/website/imgs/avatar.jpg"
         imageWidth: 120
         imageHeight: 120
