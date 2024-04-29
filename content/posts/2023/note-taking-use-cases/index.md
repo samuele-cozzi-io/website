@@ -1,7 +1,13 @@
 ---
 draft: true
 title: "Note Taking Use Cases"
-date: 2024-01-21T20:52:55Z
+date: 2023-12-21T20:52:55Z
+tags: ["notes"]
+cover:
+    image: "note-taking-usecases.excalidraw.png"
+    alt: "Note Taking Use Cases"
+    caption: "Note Taking Use Cases"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 
