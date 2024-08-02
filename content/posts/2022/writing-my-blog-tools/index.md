@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Mastering the Art: How to Write a Good Blog Post"
-date: 2023-11-28T14:54:08Z
+date: 2022-11-28T14:54:08Z
 tags: ["writing"]
 cover:
     image: "sketchnote.excalidraw.png"
@@ -9,7 +9,6 @@ cover:
     caption: "Obsidian + Marp"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 In the vast landscape of the internet, where content is king, the ability to craft a compelling blog post is a valuable skill. Whether you're a seasoned blogger or just starting, there are certain principles that can elevate your writing and engage your audience. We'll explore the elements of a good blog post and provide tools and tips on how to create content that resonates with your readers.
 
 ## Principles for writing a good blog post

@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Note Taking Methodologies"
-date: 2023-12-21T20:53:23Z
+date: 2023-05-15T20:53:23Z
 tags: ["notes"]
 cover:
     image: "note-taking-methodologies.excalidraw.png"
@@ -9,9 +9,7 @@ cover:
     caption: "Note Taking Methodologies"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
-
-Note-taking is a crucial skill that helps individuals organize, retain and recall information. There are various note-taking methodologies that one can employ depending on the purpose, style and preference. 
+Note-taking is a crucial skill that helps individuals organize, retain and recall information. There are various note-taking methodologies that one can employ depending on the purpose, style and preference.
 
 ## Methodologies
 
@@ -27,19 +25,19 @@ In the realm of Markdown, incorporating the Cornell Method involves leveraging t
 
 Advantages:
 
--   Organized and systematic for both recording and reviewing notes
--   Time-efficient and requires little effort,
--   Taking Cornell notes is very easy to learn,
--   Suitable for most subjects (except equation-based subjects),
--   Fulfills a [natural learning cycle](https://files.eric.ed.gov/fulltext/EJ1205170.pdf) within one single page,
--   Ideal for extracting major concepts and ideas.
+- Organized and systematic for both recording and reviewing notes
+- Time-efficient and requires little effort,
+- Taking Cornell notes is very easy to learn,
+- Suitable for most subjects (except equation-based subjects),
+- Fulfills a [natural learning cycle](https://files.eric.ed.gov/fulltext/EJ1205170.pdf) within one single page,
+- Ideal for extracting major concepts and ideas.
 
 Disadvantages:
 
--   Requires creating or purchasing Cornell-style pages,
--   Large quantities of Cornell notes can be challenging to organize,
--   Not great at reducing the size of notes,
--   [Research on the Cornell method](https://e-student.org/cornell-note-taking-method/#scientific-studies-on-the-effectiveness-of-cornell-notes) is mixed.
+- Requires creating or purchasing Cornell-style pages,
+- Large quantities of Cornell notes can be challenging to organize,
+- Not great at reducing the size of notes,
+- [Research on the Cornell method](https://e-student.org/cornell-note-taking-method/#scientific-studies-on-the-effectiveness-of-cornell-notes) is mixed.
 
 **Best for:** Recording main concepts & forming study questions
 **Difficulty level:** Easy
@@ -54,18 +52,18 @@ Outlined notes are some of the easiest to review, as it’s one of the few syste
 
 Advantages:
 
--   Space relationships between topics are visible,
--   Information is recorded in a logical, hierarchical manner,
--   Outlined notes are quick and easy to review pre-exam,
--   Special notepaper & preparation not required,
--   [Research on the outline method](https://e-student.org/outline-note-taking-method/#what-do-researchers-say-about-outlining) has been positive,
--   Usable during class (slow to medium-paced lectures).
+- Space relationships between topics are visible,
+- Information is recorded in a logical, hierarchical manner,
+- Outlined notes are quick and easy to review pre-exam,
+- Special notepaper & preparation not required,
+- [Research on the outline method](https://e-student.org/outline-note-taking-method/#what-do-researchers-say-about-outlining) has been positive,
+- Usable during class (slow to medium-paced lectures).
 
 Disadvantages:
 
--   Unsuitable for some STEM subjects,
--   Learning materials/lectures require a clear structure,
--   Outlining notes requires intense concentration and thought.
+- Unsuitable for some STEM subjects,
+- Learning materials/lectures require a clear structure,
+- Outlining notes requires intense concentration and thought.
 
 **Best for:** Most subjects except science classes such as physics or math
 **Difficulty level:** Medium
@@ -82,17 +80,17 @@ Try not to rely on this method when you have a choice, but keep it as a backup p
 
 Advantages:
 
--   It can be used for any subject and type of class,
--   Very easy to implement,
--   Suitable for quick note-taking during class.
+- It can be used for any subject and type of class,
+- Very easy to implement,
+- Suitable for quick note-taking during class.
 
 Disadvantages:
 
--   Reviewing sentence method notes after class is difficult and time-consuming,
--   No inter- and intra- relationships between notes are visible,
--   The main points are indistinguishable from more minor details,
--   Quick handwriting or typing speed required,
--   No element of metacognitive note analysis during note-taking.
+- Reviewing sentence method notes after class is difficult and time-consuming,
+- No inter- and intra- relationships between notes are visible,
+- The main points are indistinguishable from more minor details,
+- Quick handwriting or typing speed required,
+- No element of metacognitive note analysis during note-taking.
 
 **Best for:** Quick, unstructured note-taking
 **Difficulty level:** Very easy
@@ -109,19 +107,19 @@ Mapping is best used in content-rich college classes where the information is st
 
  Advantages:
 
--   An excellent method for visual learning styles,
--   It gives a comprehensive overview of a large subject,
--   It helps you understand the connections between small elements within a major topic,
--   Maximizes active participation,
--   Reviewing mapped notes is very efficient.
+- An excellent method for visual learning styles,
+- It gives a comprehensive overview of a large subject,
+- It helps you understand the connections between small elements within a major topic,
+- Maximizes active participation,
+- Reviewing mapped notes is very efficient.
 
  Disadvantages:
 
--   Requires a good understanding of the topic,
--   Requires strong concentration,
--   It cannot be used effectively during class,
--   It can be [difficult to correctly include all relationships](https://www.atiner.gr/2020/Lu.pdf),
--   Mapping is very time-consuming.
+- Requires a good understanding of the topic,
+- Requires strong concentration,
+- It cannot be used effectively during class,
+- It can be [difficult to correctly include all relationships](https://www.atiner.gr/2020/Lu.pdf),
+- Mapping is very time-consuming.
 
 **Best for:** Analyzing visual connections between key ideas and concepts
 **Difficulty level:** Hard
@@ -136,17 +134,17 @@ On the other hand, it’s not suitable for note-taking during live lectures, ver
 
 Advantages:
 
--   A compelling method for subjects with lots of facts and statistics,
--   Easy comparisons between different topics,
--   Reduces note sizes better than any other method,
--   Charted notes are straightforward and efficient to review,
--   Very efficient for studying comparisons.
+- A compelling method for subjects with lots of facts and statistics,
+- Easy comparisons between different topics,
+- Reduces note sizes better than any other method,
+- Charted notes are straightforward and efficient to review,
+- Very efficient for studying comparisons.
 
 Disadvantages:
 
--   Unsuitable for most subjects,
--   Requires a basic understanding of the topic,
--   Very time-intensive.
+- Unsuitable for most subjects,
+- Requires a basic understanding of the topic,
+- Very time-intensive.
 
 **Best for:** Recording facts and statistics
 **Difficulty level:** Hard
@@ -201,7 +199,7 @@ Disadvantages
 - [The 9 Most Effective Note-Taking Methods - E-Student](https://e-student.org/note-taking-methods/)
 - [Note-taking | Academic Resource Center](https://academicresourcecenter.harvard.edu/note-taking)
 - [3 Note-Taking Methodologies To Help With Productivity](https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/08/3-note-taking-methodologies-to-help-with-productivity/?sh=25d0f9a1d709)
-- [The Best Note-Taking Methods for College Students & Serious Note-takers | GoodNotes Blog](https://www.goodnotes.com/blog/note-taking-methods)
+- [The Best Note-Taking Methods for College Students &amp; Serious Note-takers | GoodNotes Blog](https://www.goodnotes.com/blog/note-taking-methods)
 - [How to Take Great Notes: The Best Note-Taking Systems Illustrated | by Valerie | Dare To Be Better | Medium](https://medium.com/dare-to-be-better/how-to-take-great-notes-the-best-note-taking-system-illustrated-ef093809e9b0)
 - [Zettelkasten vs other note-taking systems: Which system is best suited for academics and lifelong learners? | Traverse](https://traverse.link/note-taking/zettelkasten)
 - [How to use Zettelkasten to boost your creativity and productivity | Zapier](https://zapier.com/blog/zettelkasten-method/)

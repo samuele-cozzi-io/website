@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Note Taking Tools"
-date: 2023-12-21T20:53:23Z
+date: 2023-07-15T20:53:23Z
 tags: ["notes"]
 cover:
     image: "note-taking-Tools.excalidraw.png"
@@ -9,7 +9,6 @@ cover:
     caption: "Note Taking Tools"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 ## Note Taking Tools
 
 In the rapidly evolving landscape of digital tools, selecting the right software to enhance productivity and streamline workflows is crucial. This document provides an overview of various note-taking, collaborative, and cloud storage tools, highlighting key features and comparing them to notable competitors. By examining tools like Obsidian.md, Excalidraw, GitHub, and Dropbox, users can make informed decisions tailored to their specific needs and preferences.
@@ -19,12 +18,14 @@ In the rapidly evolving landscape of digital tools, selecting the right software
 Obsidian.md is a private and flexible note-taking app that adapts to the way you think. It allows users to organize their notes in a way that suits their thought process.
 
 Here are some key features that set Obsidian.md apart from its competitors:
+
 1. **Markdown Support**: Obsidian.md provides robust support for Markdown, making it easy to format and structure your notes efficiently.
 2. **Customization**: Users can customize their workspace and note-taking experience in Obsidian.md, allowing for a personalized workflow.
 3. **Knowledge Graph**: Obsidian.md offers a unique feature called the Knowledge Graph, which visually connects your notes and ideas, enabling better organization and understanding.
 4. **Privacy**: Obsidian.md prioritizes user privacy by offering a private and secure environment for note-taking.
 
 When comparing Obsidian.md to its competitors, some notable alternatives include:
+
 - ClickUp
 - Notion
 - Evernote
@@ -38,13 +39,9 @@ Each of these alternatives has its own strengths and features, so users can choo
 Excalidraw is a free virtual collaborative whiteboard tool that allows users to create simple hand-drawn style diagrams, illustrations, and flowcharts without the need for sign-ups. Here are some key features that set Excalidraw apart from its competitors:
 
 1. **Infinite Canvas**: Excalidraw offers an infinite, canvas-based whiteboard, providing users with ample space to sketch out their ideas and diagrams.
-
 2. **Hand-Drawn Style**: The tool provides a hand-drawn like style, giving a unique and creative touch to your diagrams and illustrations.
-
 3. **Customizability**: Users can customize their drawings in Excalidraw, making it a versatile tool for various types of visualizations.
-
 4. **Image Support**: Excalidraw supports image insertion, allowing users to enhance their diagrams with visuals.
-
 5. **Collaboration**: Excalidraw enables real-time collaboration, making it easy for multiple users to work together on the same canvas.
 
 When comparing Excalidraw to its competitors, some notable alternatives include Miro, Draw.io, FigJam, Lucid Visual Collaboration Suite, and Mural. Each of these alternatives has its own strengths and features, so users can choose based on their specific needs and preferences.
@@ -60,6 +57,7 @@ Raindrop.io is an elegant web bookmark manager and tool that helps users organiz
 - **Subscription Plans**: Raindrop.io offers subscription plans, including monthly and yearly options, with the flexibility to cancel anytime and save money with a yearly plan.
 
 When comparing Raindrop.io to its competitors, some notable alternatives include:
+
 - **start.me**: A comprehensive bookmark manager with similar functionality to Raindrop.io.
 - **Pocket**: A popular app for saving articles, videos, and web content to read later.
 - **Toby**: A tool for organizing and managing bookmarks and tabs effectively.

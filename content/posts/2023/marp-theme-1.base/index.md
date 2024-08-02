@@ -1,14 +1,13 @@
 ---
 draft: false
 title: "Unleashing HTML & CSS Creativity: Explore Minimal Turquoise Marp  Template - The Basics"
-date: 2023-11-30T16:02:44Z
+date: 2023-03-15T16:02:44Z
 cover:
     image: "cover.excalidraw.png"
     alt: "Marp Theme"
     caption: "Marp Minimal Turquoise Theme"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 {{< badge text="Marp" icon="images" href= "https://marp.app/" >}}
 
 {{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}
@@ -45,7 +44,7 @@ YYYY/MM/DD
 ---
 ```
 
-![Lead](<attachments/Sample Minimal.001.png>)
+![Lead](attachments/Sample Minimal.001.png)
 
 ### Agenda
 
@@ -68,7 +67,7 @@ The title slide has the `divider` class.
 ---
 ```
 
-![Agenda](<attachments/Sample Minimal.002.png>)
+![Agenda](attachments/Sample Minimal.002.png)
 
 ### Section Title
 
@@ -86,11 +85,11 @@ Section Details
 ---
 ```
 
-![Section](<attachments/Sample Minimal.004.png>)
+![Section](attachments/Sample Minimal.004.png)
 
 ## Content Slides
 
-The content slide template is the heart of a presentation, where information takes center stage in a structured and visually appealing manner. 
+The content slide template is the heart of a presentation, where information takes center stage in a structured and visually appealing manner.
 
 ### Text Slides
 
@@ -114,11 +113,11 @@ Text
 ---
 ```
 
-![Content](<attachments/Sample Minimal.005.png>)
+![Content](attachments/Sample Minimal.005.png)
 
 ### Text and Picture Slide
 
-The text and picture slide template seamlessly blends the power of words with visual impact, creating a harmonious presentation of information. 
+The text and picture slide template seamlessly blends the power of words with visual impact, creating a harmonious presentation of information.
 
 ```markdown
 
@@ -134,7 +133,7 @@ text
 ---
 ```
 
-![Image-Text](<attachments/Sample Minimal.006.png>)
+![Image-Text](attachments/Sample Minimal.006.png)
 
 ### Picture Slide
 
@@ -152,7 +151,7 @@ The picture slide template is the visual that places emphasis with a minimalist 
 ---
 ```
 
-![Image](<attachments/Sample Minimal.013.png>)
+![Image](attachments/Sample Minimal.013.png)
 
 ### Table Slide
 
@@ -172,7 +171,7 @@ The table slide template is a practical and efficient tool for presenting organi
 ---
 ```
 
-![Table](<attachments/Sample Minimal.014.png>)
+![Table](attachments/Sample Minimal.014.png)
 
 ### Quote Slide
 
@@ -189,7 +188,7 @@ The quota slide template serves as a focused space to highlight key quotes or im
 ---
 ```
 
-![Quote](<attachments/Sample Minimal.015.png>)
+![Quote](attachments/Sample Minimal.015.png)
 
 ### Code Slide
 
@@ -241,14 +240,14 @@ The code slide template is a dedicated space for presenting programming code, of
 
         return ((num & (1<<i)) != 0);
         popo
-        
+      
     }
     ```
 
 ---
 ```
 
-![Code](<attachments/Sample Minimal.017.png>)
+![Code](attachments/Sample Minimal.017.png)
 
 ### Math Slide
 
@@ -276,7 +275,7 @@ Conclusion
 ---
 ```
 
-![Math](<attachments/Sample Minimal.018.png>)
+![Math](attachments/Sample Minimal.018.png)
 
 ## Closing Slide
 
@@ -297,7 +296,7 @@ www.author.com
 ---
 ```
 
-![End](<attachments/Sample Minimal.020.png>)
+![End](attachments/Sample Minimal.020.png)
 
 ## Conclusion
 

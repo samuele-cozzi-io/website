@@ -1,14 +1,13 @@
 ---
 draft: false
 title: "Unleashing HTML & CSS Creativity: Exploring the New Theme for Marp"
-date: 2023-11-29T13:14:40Z
+date: 2023-02-15T13:14:40Z
 cover:
     image: "cover.excalidraw.png"
     alt: "Marp Theme"
     caption: "Marp Minimal Turquoise Theme"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 {{< badge text="Marp" icon="images" href= "https://marp.app/" >}}
 
 {{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}
@@ -20,6 +19,7 @@ cover:
 In the dynamic world of presentations, Marp has been a game-changer for those seeking simplicity, flexibility, and elegance in their slideshows. As Marp enthusiasts eagerly embrace its user-friendly features, a new theme has emerged, promising to take presentations to a whole new level. I have develop this marp theme trying to approach with minimal design but implementing all the basics slide template.
 
 {{< rawhtml >}}
+
 <iframe src="minimal/Sample Minimal.html" width="100%" height="400px"></iframe>
 {{</ rawhtml >}}
 
@@ -210,19 +210,19 @@ To harness the power of the new Marp theme that inherits from Gaia while keeping
 #### Markdown Presentation
 
 {{< rawhtml >}}
-<embed src= 'minimal/Sample Minimal.txt' width= '100%' height= '400px' style="background-color: #FFFFFF" type='text/plain'/>
+`<embed src= 'minimal/Sample Minimal.txt' width= '100%' height= '400px' style="background-color: #FFFFFF" type='text/plain'/>`
 {{</ rawhtml >}}
 
 #### CSS Theme
 
 {{< rawhtml >}}
-<embed src= 'minimal/minimal-turquoise.css' width= '100%' height= '400px' style="background-color: #FFFFFF" type='text/css'/>
+`<embed src= 'minimal/minimal-turquoise.css' width= '100%' height= '400px' style="background-color: #FFFFFF" type='text/css'/>`
 {{</ rawhtml >}}
 
 #### Output PDF
 
 {{< rawhtml >}}
-<embed src= 'minimal/Sample Minimal.pdf' width= '100%' height= '400px' type='application/pdf' />
+`<embed src= 'minimal/Sample Minimal.pdf' width= '100%' height= '400px' type='application/pdf' />`
 {{</ rawhtml >}}
 
 ### Customization at Your Fingertips

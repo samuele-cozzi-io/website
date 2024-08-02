@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Note Taking Vscode"
-date: 2023-12-21T20:53:23Z
+date: 2023-11-15T20:53:23Z
 tags: ["notes"]
 cover:
     image: "note-taking-vscode.excalidraw.png"
@@ -9,7 +9,6 @@ cover:
     caption: "Note Taking VSCode"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 # How to Use VSCode as a Note-Taking Client with Markdown
 
 Visual Studio Code (VSCode) is a powerful, open-source code editor that can also serve as an excellent note-taking client. By leveraging its Markdown support and extensive extension ecosystem, you can transform VSCode into a robust alternative to proprietary note-taking apps like Obsidian. Here's a step-by-step guide to setting up my VSCode for taking notes in Markdown format.
@@ -64,38 +63,27 @@ If you haven't already, download and install Visual Studio Code from the [offici
 ### Step 2: Customize VSCode for Note-Taking
 
 1. **Set Markdown as the Default Language**: To make Markdown the default language for new files, add the following setting in your `settings.json` file:
+
    ```json
    "files.defaultLanguage": "markdown"
    ```
-
 2. **Enable Markdown Preview**: Use the shortcut `Ctrl+Shift+V` (or `Cmd+Shift+V` on macOS) to open a Markdown preview side-by-side with your editor. This allows you to see the rendered output of your notes as you type.
-
-4. **Enable Auto Save**: Enable auto-save to ensure your notes are saved automatically as you work. Go to `File > Auto Save` and select your preferred auto-save interval.
+3. **Enable Auto Save**: Enable auto-save to ensure your notes are saved automatically as you work. Go to `File > Auto Save` and select your preferred auto-save interval.
 
 ### Step 3: Install Essential Extensions
 
 To optimize VSCode for note-taking, install the following extensions:
 
 1. **Markdown All in One**: This extension provides a comprehensive suite of Markdown tools, including shortcuts, previews, and table of contents generation.
-
 2. **Markdownlint**: This extension helps maintain consistent Markdown formatting by providing linting and style checking.
-
 3. **Foam**: Enhance your note-taking and personal knowledge management with Foam, a powerful extension for creating and maintaining interconnected markdown notes directly within VS Code.
-
 4. **Office Viewer**: View and edit Microsoft Office documents seamlessly within VS Code, integrating Word, Excel, and PowerPoint files into your development and documentation workflow.
-
 5. **Draw.io**: Create and edit diagrams with ease using the Draw.io extension, providing a robust, integrated diagramming tool within the VS Code environment.
-
 6. **Excalidraw**: Bring hand-drawn style diagrams and sketches into VS Code with Excalidraw, perfect for visual thinkers and designers who need to illustrate concepts quickly.
-
 7. **Markmap**: Visualize markdown documents as mind maps using Markmap, helping to organize and explore complex ideas through an interactive, visual format in VS Code.
-
 8. **Marp for VS Code**: Create stylish presentations with markdown using Marp for VS Code, transforming your markdown files into elegant slide decks effortlessly.
-
 9. **Material Icon Theme**: Beautify your VS Code workspace with Material Icon Theme, offering a comprehensive set of icons to enhance file and folder visibility and organization.
-
 10. **Open in External App**: Easily open files in external applications from within VS Code, allowing you to leverage the best tools for specific tasks while maintaining a cohesive workflow.
-
 11. **Jupyter Notebook Rendering**: Seamlessly view and edit Jupyter notebooks in VS Code with the Jupyter Notebook Rendering extension, combining code execution, rich text, and interactive outputs within a single interface.
 
 ## Tips & Tricks

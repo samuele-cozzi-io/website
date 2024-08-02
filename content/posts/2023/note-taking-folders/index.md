@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Note Taking Folders"
-date: 2023-12-21T20:53:23Z
+date: 2023-08-15T20:53:23Z
 tags: ["notes"]
 cover:
     image: "note-taking-Folders.excalidraw.png"
@@ -9,7 +9,6 @@ cover:
     caption: "Note Taking Folders"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 ## Folders
 
 Efficient note-taking systems are essential for managing information, organizing thoughts, and enhancing productivity. This document explores a comprehensive note-taking structure that includes specific folders for different purposes: the "Inbox" for collecting and writing fleeting notes, the "Creator" for content drafting, the "Archive" for completed projects, and the "Bookshelf" for storing valuable resources. By understanding the functionality and benefits of each folder, users can optimize their workflow and maintain a well-organized digital space.

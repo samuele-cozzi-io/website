@@ -1,14 +1,13 @@
 ---
 draft: false
 title: "Unleashing HTML & CSS Creativity: Explore Minimal Turquoise Marp  Template - The Flex"
-date: 2023-11-30T16:03:08Z
+date: 2023-04-15T16:03:08Z
 cover:
     image: "cover.excalidraw.png"
     alt: "Marp Theme"
     caption: "Marp Minimal Turquoise Theme"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 {{< badge text="Marp" icon="images" href= "https://marp.app/" >}}
 
 {{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}
@@ -40,7 +39,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 
 ```
 
-![2.columns](<attachments/Sample Minimal.007.png>)
+![2.columns](attachments/Sample Minimal.007.png)
 
 ## 2 Columns with Images
 
@@ -60,7 +59,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 
 ```
 
-![2.columns.images](<attachments/Sample Minimal.008.png>)
+![2.columns.images](attachments/Sample Minimal.008.png)
 
 ## 3 Columns
 
@@ -76,7 +75,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 
 - ### column 2
 	text
-	
+
 - ### column 3
 	text
 
@@ -84,7 +83,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 
 ```
 
-![3.columns](<attachments/Sample Minimal.009.png>)
+![3.columns](attachments/Sample Minimal.009.png)
 
 ## 4 columns
 
@@ -102,7 +101,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 - ### column 2
 
 	text
-	
+
 - ### column 3
 	text
 
@@ -113,7 +112,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 
 ```
 
-![4.columns](<attachments/Sample Minimal.010.png>)
+![4.columns](attachments/Sample Minimal.010.png)
 
 ## 6 blocks
 
@@ -131,7 +130,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 - ### column 2
 
 	text
-	
+
 - ### column 3
 	text
 
@@ -148,7 +147,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 
 ```
 
-![6.blocks](<attachments/Sample Minimal.011.png>)
+![6.blocks](attachments/Sample Minimal.011.png)
 
 ## 8 blocks
 
@@ -166,7 +165,7 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 - ### column 2
 
 	text
-	
+
 - ### column 3
 	text
 
@@ -184,12 +183,12 @@ Let's embark on a visual voyage that transforms the way you share ideas and capt
 
 - ### column 8
 	text
-    
+  
 ---
 
 ```
 
-![8.blocks](<attachments/Sample Minimal.012.png>)
+![8.blocks](attachments/Sample Minimal.012.png)
 
 ## References
 
