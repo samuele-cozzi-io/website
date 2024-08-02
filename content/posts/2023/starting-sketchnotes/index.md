@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Starting Sketchnotes"
 date: 2023-10-15T20:53:23Z
 tags: ["notes"]

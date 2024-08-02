@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Note Taking Tools"
 date: 2023-07-15T20:53:23Z
 tags: ["notes"]
