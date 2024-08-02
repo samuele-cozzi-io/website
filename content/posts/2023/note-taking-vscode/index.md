@@ -74,17 +74,17 @@ If you haven't already, download and install Visual Studio Code from the [offici
 
 To optimize VSCode for note-taking, install the following extensions:
 
-1. **Markdown All in One**: This extension provides a comprehensive suite of Markdown tools, including shortcuts, previews, and table of contents generation.
-2. **Markdownlint**: This extension helps maintain consistent Markdown formatting by providing linting and style checking.
-3. **Foam**: Enhance your note-taking and personal knowledge management with Foam, a powerful extension for creating and maintaining interconnected markdown notes directly within VS Code.
-4. **Office Viewer**: View and edit Microsoft Office documents seamlessly within VS Code, integrating Word, Excel, and PowerPoint files into your development and documentation workflow.
-5. **Draw.io**: Create and edit diagrams with ease using the Draw.io extension, providing a robust, integrated diagramming tool within the VS Code environment.
-6. **Excalidraw**: Bring hand-drawn style diagrams and sketches into VS Code with Excalidraw, perfect for visual thinkers and designers who need to illustrate concepts quickly.
-7. **Markmap**: Visualize markdown documents as mind maps using Markmap, helping to organize and explore complex ideas through an interactive, visual format in VS Code.
-8. **Marp for VS Code**: Create stylish presentations with markdown using Marp for VS Code, transforming your markdown files into elegant slide decks effortlessly.
-9. **Material Icon Theme**: Beautify your VS Code workspace with Material Icon Theme, offering a comprehensive set of icons to enhance file and folder visibility and organization.
-10. **Open in External App**: Easily open files in external applications from within VS Code, allowing you to leverage the best tools for specific tasks while maintaining a cohesive workflow.
-11. **Jupyter Notebook Rendering**: Seamlessly view and edit Jupyter notebooks in VS Code with the Jupyter Notebook Rendering extension, combining code execution, rich text, and interactive outputs within a single interface.
+1. [**Markdown All in One**](https://github.com/yzhang-gh/vscode-markdown) : This extension provides a comprehensive suite of Markdown tools, including shortcuts, previews, and table of contents generation.
+2. [**Markdownlint**](https://github.com/DavidAnson/vscode-markdownlint): This extension helps maintain consistent Markdown formatting by providing linting and style checking.
+3. [**Foam**](https://github.com/foambubble/foam): Enhance your note-taking and personal knowledge management with Foam, a powerful extension for creating and maintaining interconnected markdown notes directly within VS Code.
+4. [**Office Viewer**](https://github.com/cweijan/vscode-office): View and edit Microsoft Office documents seamlessly within VS Code, integrating Word, Excel, and PowerPoint files into your development and documentation workflow.
+5. [**Draw.io**](https://github.com/hediet/vscode-drawio): Create and edit diagrams with ease using the Draw.io extension, providing a robust, integrated diagramming tool within the VS Code environment.
+6. [**Excalidraw**](https://github.com/excalidraw/excalidraw-vscode#master): Bring hand-drawn style diagrams and sketches into VS Code with Excalidraw, perfect for visual thinkers and designers who need to illustrate concepts quickly.
+7. [**Markmap**](https://github.com/markmap/markmap-vscode): Visualize markdown documents as mind maps using Markmap, helping to organize and explore complex ideas through an interactive, visual format in VS Code.
+8. [**Marp for VS Code**](https://github.com/marp-team/marp-vscode): Create stylish presentations with markdown using Marp for VS Code, transforming your markdown files into elegant slide decks effortlessly.
+9. [**Material Icon Theme**](https://github.com/material-extensions/vscode-material-icon-theme): Beautify your VS Code workspace with Material Icon Theme, offering a comprehensive set of icons to enhance file and folder visibility and organization.
+10. [**Open in External App**](https://github.com/tjx666/open-in-external-app): Easily open files in external applications from within VS Code, allowing you to leverage the best tools for specific tasks while maintaining a cohesive workflow.
+11. [**Jupyter Notebook**](https://github.com/Microsoft/vscode-jupyter): Seamlessly view and edit Jupyter notebooks in VS Code with the Jupyter Notebook extension, combining code execution, rich text, and interactive outputs within a single interface.
 
 ## Tips & Tricks
 
