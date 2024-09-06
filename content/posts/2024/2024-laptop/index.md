@@ -9,3 +9,5 @@ cover:
     caption: "Build my new Laptop in 2024"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
+
+# Prova
