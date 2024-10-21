@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Llm Local
-date: 2024-06-15
+date: 2024-07-15
 ---
 The idea of running LLMs on a personal computer is not entirely new. In fact, researchers and developers have been experimenting with this concept for several years. However, the recent advancements in computing power and software development have made it increasingly feasible to deploy these complex models on local machines.
 
