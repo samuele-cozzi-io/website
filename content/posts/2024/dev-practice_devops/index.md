@@ -2,6 +2,12 @@
 draft: true
 title: Devops
 date: 2024-03-15
+tags: ["developer"]
+cover:
+    image: "dev-ops.excalidraw.png"
+    alt: "DEV-OPS"
+    caption: "DEV-OPS"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 ### Unlocking the Power of DevOps: Bringing Better Products to End Users Faster
 
@@ -16,11 +22,8 @@ DevOps is a cultural and operational model that emphasizes the collaboration bet
 Adopting DevOps offers several compelling benefits for organizations, including:
 
 1. **Accelerating Time to Market**: By automating processes and improving collaboration, DevOps enables teams to bring products to market faster, ensuring that businesses stay ahead of the competition.
-
 2. **Adapting to Market Changes**: DevOps allows organizations to quickly adapt to market dynamics and competitive pressures by enabling more frequent and reliable updates to applications and services.
-
 3. **Maintaining System Stability and Reliability**: Through continuous monitoring and automated testing, DevOps helps maintain high levels of system stability and reliability, reducing the risk of downtime and ensuring a seamless user experience.
-
 4. **Improving Mean Time to Recovery**: In the event of an issue, DevOps practices enable teams to recover more quickly, minimizing the impact on end users and maintaining trust in the product.
 
 #### The Application Lifecycle in DevOps

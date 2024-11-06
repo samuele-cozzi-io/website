@@ -2,6 +2,12 @@
 draft: true
 title: Waterfall vs Agile
 date: 2024-05-15
+tags: ["developer"]
+cover:
+    image: "waterfall-vs-agile.excalidraw.png"
+    alt: "Waterfall vs Agile"
+    caption: "Waterfall vs Agile"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 **Title: Agile vs. Waterfall in Software Engineering: Choosing the Right Approach for Your Project**
 
@@ -22,17 +28,13 @@ In software engineering, choosing the right project management methodology is cr
 **Waterfall Use Cases:**
 
 1. **Fixed Requirements:** Waterfall is best suited for projects where requirements are well-understood and unlikely to change. For example, building a system with well-defined features and specifications, such as payroll systems or regulatory compliance software.
-
 2. **Clear Documentation:** Projects that require thorough documentation and adherence to strict standards benefit from the Waterfall approach. Industries like aerospace, defense, and construction often prefer Waterfall due to the need for detailed project plans and regulatory compliance.
-
 3. **Large-Scale Projects:** Waterfall works well in large, complex projects where the scale and scope of the work are clearly defined, and coordination across multiple teams or departments is required.
 
 **Agile Use Cases:**
 
 1. **Evolving Requirements:** Agile is ideal for projects where requirements are expected to change frequently, such as in software startups or environments driven by customer feedback. Web applications, mobile apps, and SaaS products often use Agile due to the need for continuous improvement.
-
 2. **Rapid Prototyping:** Projects that require rapid development and deployment of a minimum viable product (MVP) are well-suited for Agile. This approach allows teams to quickly test concepts, gather user feedback, and make adjustments.
-
 3. **Cross-Functional Teams:** Agile thrives in environments where collaboration between developers, designers, testers, and stakeholders is key. It encourages communication and teamwork, making it suitable for creative projects or those requiring innovation.
 
 ---
@@ -42,17 +44,13 @@ In software engineering, choosing the right project management methodology is cr
 **Pros:**
 
 1. **Structured Process:** Waterfall’s linear approach ensures that each phase is completed before the next begins, providing a clear roadmap for the project.
-   
 2. **Comprehensive Documentation:** Because each stage is meticulously documented, Waterfall is beneficial for projects requiring detailed records for future reference or compliance purposes.
-   
 3. **Predictability:** With a well-defined scope, budget, and timeline, Waterfall offers predictability, making it easier to manage large-scale projects.
 
 **Cons:**
 
 1. **Inflexibility:** Once a phase is completed, it is difficult to go back and make changes, making Waterfall less adaptable to evolving requirements.
-   
 2. **Late Testing:** Testing typically occurs at the end of the project, which can lead to the discovery of critical issues late in the process, potentially delaying the launch.
-   
 3. **Longer Delivery Times:** Due to its sequential nature, Waterfall projects can take longer to deliver, which may not be ideal in fast-paced industries.
 
 ---
@@ -62,17 +60,13 @@ In software engineering, choosing the right project management methodology is cr
 **Pros:**
 
 1. **Flexibility:** Agile’s iterative approach allows teams to adapt to changes in requirements, making it suitable for projects with a high degree of uncertainty or frequent changes.
-   
 2. **Customer-Centric:** Regular feedback from stakeholders and end-users ensures that the final product meets customer needs and expectations.
-   
 3. **Faster Time-to-Market:** By delivering working software in iterations, Agile enables teams to release products or features faster, often resulting in quicker ROI.
 
 **Cons:**
 
 1. **Less Predictability:** Agile’s flexibility can lead to challenges in defining a clear scope, budget, and timeline, making it harder to predict project outcomes.
-   
 2. **Requires High Collaboration:** Agile demands continuous communication and collaboration, which can be challenging for teams that are not co-located or those with less experienced members.
-   
 3. **Incomplete Documentation:** The focus on working software over comprehensive documentation can lead to challenges in maintaining the project after completion, especially in highly regulated industries.
 
 ---
