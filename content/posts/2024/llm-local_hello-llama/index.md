@@ -2,8 +2,22 @@
 draft: true
 title: Llm Local
 date: 2024-07-15
+tags: ["developer"]
+cover:
+    image: "cover.excalidraw.png"
+    alt: "Hello Llama"
+    caption: "Hello Llama"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
+
 The idea of running LLMs on a personal computer is not entirely new. In fact, researchers and developers have been experimenting with this concept for several years. However, the recent advancements in computing power and software development have made it increasingly feasible to deploy these complex models on local machines.
+
+## Stories
+
+1. [LLM Local](../llm-local_prerequisites/index.md)
+2. **[Hello Llama](index.md)**
+3. [Hello LlamaIndex](../llm-local_hello-llamaIndex/index.md)
+4. [Obsidian LLM](../llm-obsidian/index.md)
 
 ## VS Code iPython Notebook
 
@@ -53,7 +67,3 @@ ollama_chat_stream("Who is Paul Graham?")
 This function sends a question to Llama 3.1 and streams the response in chunks, offering a smooth and continuous output that mimics a real conversation.
 
 ![](./attachments/PaulGrahamStream.gif)
-
-
-
-

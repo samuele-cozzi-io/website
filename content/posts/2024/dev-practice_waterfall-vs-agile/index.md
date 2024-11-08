@@ -81,6 +81,12 @@ Ultimately, some organizations even opt for a hybrid approach, blending elements
 
 Whether you choose Agile, Waterfall, or a combination of both, the key is to tailor the approach to your project’s specific requirements, ensuring the best possible outcome.
 
+## Related Stories on Development Practices
+
+- [CI/CD](../dev-practice_ci-cd/index.md)
+- [DevOps](../dev-practice_devops/index.md)
+- [Release Management](../dev-practice_release-management/index.md)
+
 ## References
 
 - [Understanding story points in Agile - Zapier](../../../../../50.archive-articles/2024/Understanding%20story%20points%20in%20Agile%20-%20Zapier.md)

@@ -2,9 +2,22 @@
 draft: true
 title: Hello LlamaIndex
 date: 2024-08-15
+tags: ["developer"]
+cover:
+    image: "cover.excalidraw.png"
+    alt: "Hello Llama Index"
+    caption: "Hello Llama Index"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 This notebook is designed to demonstrate how to build a document-based AI interaction system using the LlamaIndex library with the Ollama Models on the local machine. The project is structured to guide users through configuring and deploying a retrieval-augmented generation (RAG) model that can read, understand, and summarize text from documents. The core idea is to leverage the power of AI for tasks such as querying specific information from a collection of texts and summarizing large amounts of data.
+
+## Stories
+
+1. [LLM Local](../llm-local_prerequisites/index.md)
+2. [Hello Llama](../llm-local_hello-llama/index.md)
+3. **[Hello LlamaIndex](index.md)**
+4. [Obsidian LLM](../llm-obsidian/index.md)
 
 ## Setting Up LlamaIndex
 
@@ -25,7 +38,6 @@ Settings.llm = Ollama(model="llama3.1", request_timeout=6000.0)
 ```
 
 Here, the `OllamaEmbedding` and `Ollama` classes are used to set up the embedding model and the LLM, respectively. This configuration allows the AI to understand the documents by embedding their content into a vector space and then utilizing the LLM for generating human-like responses based on the embedded information on the local machine.
-
 
 ### Building and Querying the Index
 

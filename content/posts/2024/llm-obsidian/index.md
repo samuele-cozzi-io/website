@@ -2,8 +2,21 @@
 draft: true
 title: Llm Obsidian
 date: 2024-09-15
+tags: ["developer"]
+cover:
+    image: "cover.excalidraw.png"
+    alt: "LLM Obsidian"
+    caption: "LLM Obsidian"
+    relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
+
+## Stories
+
+1. [LLM Local](../llm-local_prerequisites/index.md)
+2. [Hello Llama](../llm-local_hello-llama/index.md)
+3. [Hello LlamaIndex](../llm-local_hello-llamaIndex/index.md)
+4. **[Obsidian LLM](index.md)**
 
 **How to Automate Your Daily Tasks**
 
@@ -15,27 +28,27 @@ In this article, we will explore the benefits of automation, identify areas wher
 
 Automation has numerous benefits that extend beyond just saving time. According to a study by [1] McKinsey & Company, automation can lead to:
 
-*   Increased productivity: By automating repetitive tasks, employees can focus on higher-value work that requires creativity and problem-solving skills.
-*   Improved accuracy: Automated systems reduce the likelihood of human error, which is especially important in industries where accuracy is critical.
-*   Enhanced customer experience: Automation enables businesses to respond quickly to customer inquiries and provide personalized support.
+* Increased productivity: By automating repetitive tasks, employees can focus on higher-value work that requires creativity and problem-solving skills.
+* Improved accuracy: Automated systems reduce the likelihood of human error, which is especially important in industries where accuracy is critical.
+* Enhanced customer experience: Automation enables businesses to respond quickly to customer inquiries and provide personalized support.
 
 **Identifying Areas for Automation**
 
 Before you can start automating your daily tasks, you need to identify areas that are ripe for automation. Here are some examples of tasks that can be automated:
 
-1.  **Email management**: Set up filters and autoresponders to manage your email inbox.
-2.  **Scheduling appointments**: Use online scheduling tools like Calendly or ScheduleOnce to schedule meetings with clients or colleagues.
-3.  **Data entry**: Automate data entry by using software that can extract information from documents or spreadsheets.
-4.  **Recurring tasks**: Set up recurring tasks in your calendar or task management tool to ensure that important deadlines are met.
+1. **Email management**: Set up filters and autoresponders to manage your email inbox.
+2. **Scheduling appointments**: Use online scheduling tools like Calendly or ScheduleOnce to schedule meetings with clients or colleagues.
+3. **Data entry**: Automate data entry by using software that can extract information from documents or spreadsheets.
+4. **Recurring tasks**: Set up recurring tasks in your calendar or task management tool to ensure that important deadlines are met.
 
 **Getting Started with Automation**
 
 Now that you've identified areas for automation, it's time to get started! Here are some tips on how to automate your daily tasks:
 
-1.  **Assess your needs**: Determine which tasks can be automated and what tools will help you achieve this.
-2.  **Research software options**: Look for software or apps that can automate specific tasks, such as email management or data entry.
-3.  **Set up automation workflows**: Create workflows that integrate multiple tools to automate complex processes.
-4.  **Monitor and adjust**: Continuously monitor the effectiveness of your automated systems and make adjustments as needed.
+1. **Assess your needs**: Determine which tasks can be automated and what tools will help you achieve this.
+2. **Research software options**: Look for software or apps that can automate specific tasks, such as email management or data entry.
+3. **Set up automation workflows**: Create workflows that integrate multiple tools to automate complex processes.
+4. **Monitor and adjust**: Continuously monitor the effectiveness of your automated systems and make adjustments as needed.
 
 **Conclusion**
 
@@ -43,9 +56,9 @@ Automating daily tasks is a simple yet powerful way to boost productivity, reduc
 
 References:
 
-*   [1] McKinsey & Company. (2020). The Future of Work: How Automation Will Change the World.
-*   [2] Zapier. (n.d.). Automate Your Daily Tasks with Zapier.
-*   [3] IFTTT. (n.d.). Create Custom Automated Flows with IFTTT.
+* [1] McKinsey & Company. (2020). The Future of Work: How Automation Will Change the World.
+* [2] Zapier. (n.d.). Automate Your Daily Tasks with Zapier.
+* [3] IFTTT. (n.d.). Create Custom Automated Flows with IFTTT.
 
 Note: Some sources may require subscription or access to academic databases, but they are referenced here as examples of credible sources that support the topic of automation and productivity.ows you to run large language models locally on your machine. When paired with the Text Generator Plugin in Obsidian, it transforms your note-taking experience into an AI-powered productivity powerhouse.
 
@@ -79,21 +92,25 @@ Here’s how to get started:
 With the Text Generator Plugin and Ollama configured, here are a few practical ways you can leverage local LLMs in Obsidian:
 
 #### 1. **Brainstorming Ideas**
+
 Imagine you’re working on a new project and need to brainstorm ideas. Simply enter a prompt into a note, and the Text Generator Plugin can generate a list of ideas or a rough outline based on your input. The LLM's suggestions can help spark creativity or provide new angles you hadn’t considered.
 
 ![](./attachments/Brainstorming.gif)
 
 #### 2. **Drafting Articles or Blog Posts**
+
 If you’re staring at a blank page, the Text Generator Plugin can help you get started by generating a first draft based on a title or a few keywords. You can then refine and edit the content, saving time and overcoming the initial hurdle of getting words on the page.
 
 ![](./attachments/Article.gif)
 
 #### 3. **Summarizing Research Notes**
+
 When dealing with lengthy research notes or articles, summarization features can distill the information into key points or summaries. This allows you to quickly review your research without losing the essence of the content.
 
 ![](./attachments/Summarize.gif)
 
-#### 4. **Rewriting enhancing Clarity** 
+#### 4. **Rewriting enhancing Clarity**
+
 For non-native speaker, the plugin can rewrite effectively utilize the llm, ensuring the content remains clear and concise through focused prompt phrasing techniques.
 
 ![](./attachments/Rewrite.gif)

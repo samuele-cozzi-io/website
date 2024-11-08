@@ -77,3 +77,9 @@ Ultimately, the goal of any release management strategy is to deliver high-quali
 ---
 
 Understanding these two approaches and their respective advantages and disadvantages is key to effective release management, ensuring that your product remains competitive, stable, and responsive to user needs.
+
+## Related Stories on Development Practices
+
+- [CI/CD](../dev-practice_ci-cd/index.md)
+- [DevOps](../dev-practice_devops/index.md)
+- [Waterfall vs. Agile](../dev-practice_waterfall-vs-agile/index.md)
