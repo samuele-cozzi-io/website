@@ -2,15 +2,13 @@
 draft: true
 title: Llm Obsidian
 date: 2024-09-15
-tags: ["developer"]
+tags: ["developer", "notes"]
 cover:
     image: "cover.excalidraw.png"
     alt: "LLM Obsidian"
     caption: "LLM Obsidian"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
-
 ## Stories
 
 1. [LLM Local](../llm-local_prerequisites/index.md)

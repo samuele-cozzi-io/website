@@ -2,14 +2,13 @@
 draft: true
 title: Llm Local Prerequisites
 date: 2024-06-15
-tags: ["developer"]
+tags: ["developer", "notes"]
 cover:
     image: "cover.excalidraw.png"
     alt: "Ollama"
     caption: "Ollama"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 ## Stories
 
 1. **[Llm Local Prerequisites](index.md)**

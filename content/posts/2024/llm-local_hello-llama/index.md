@@ -2,14 +2,13 @@
 draft: true
 title: Llm Local
 date: 2024-07-15
-tags: ["developer"]
+tags: ["developer", "notes"]
 cover:
     image: "cover.excalidraw.png"
     alt: "Hello Llama"
     caption: "Hello Llama"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 The idea of running LLMs on a personal computer is not entirely new. In fact, researchers and developers have been experimenting with this concept for several years. However, the recent advancements in computing power and software development have made it increasingly feasible to deploy these complex models on local machines.
 
 ## Stories
