@@ -4,12 +4,11 @@ title: Bringing Better Products to End Users Faster - DevOps
 date: 2024-03-15
 tags: ["developer"]
 cover:
-    image: "dev-ops.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "DEV-OPS"
     caption: "DEV-OPS"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 In today's fast-paced digital world, businesses are under constant pressure to deliver innovative products and services at an ever-increasing pace. To thrive in this environment, organizations are turning to DevOps—a methodology that blends people, processes, and products to enable continuous delivery of value to end users. This blog post explores the fundamental aspects of DevOps, its benefits, and the key practices that drive its success.
 
 ## What is DevOps?

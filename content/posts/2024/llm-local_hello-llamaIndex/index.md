@@ -4,7 +4,7 @@ title: Hello LlamaIndex
 date: 2024-08-15
 tags: ["developer", "notes"]
 cover:
-    image: "cover.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Hello Llama Index"
     caption: "Hello Llama Index"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

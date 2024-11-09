@@ -4,14 +4,13 @@ title: "Build my new Laptop in 2021"
 date: 2021-12-21
 tags: ["developer"]
 cover:
-    image: "ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
+    image: "featured.ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "<alt text>"
     caption: "<text>"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 ## Browser
 
 A web browser is application software for accessing the World Wide Web. When a user requests a web page from a particular website, the web browser retrieves the necessary content from a web server and then displays the page on the user's device. [wiki](https://en.wikipedia.org/wiki/Web_browser)

@@ -4,7 +4,7 @@ title: "Note Taking Vscode"
 date: 2023-11-15T20:53:23Z
 tags: ["notes"]
 cover:
-    image: "note-taking-vscode.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Note Taking VSCode"
     caption: "Note Taking VSCode"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

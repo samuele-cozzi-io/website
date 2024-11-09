@@ -4,7 +4,7 @@ title: "Note-Taking for Every Situation"
 date: 2023-06-15T20:52:55Z
 tags: ["notes"]
 cover:
-    image: "note-taking-usecases.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Note Taking Use Cases"
     caption: "Note Taking Use Cases"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

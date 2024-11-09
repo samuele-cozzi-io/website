@@ -4,7 +4,7 @@ title: "Note Taking Methodologies"
 date: 2023-05-15T20:53:23Z
 tags: ["notes"]
 cover:
-    image: "note-taking-methodologies.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Note Taking Methodologies"
     caption: "Note Taking Methodologies"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

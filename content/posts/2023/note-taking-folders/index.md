@@ -4,7 +4,7 @@ title: "Note Taking Folders"
 date: 2023-08-15T20:53:23Z
 tags: ["notes"]
 cover:
-    image: "note-taking-Folders.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Note Taking Folders"
     caption: "Note Taking Folders"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

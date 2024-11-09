@@ -4,7 +4,7 @@ title: Llm Local Prerequisites
 date: 2024-06-15
 tags: ["developer", "notes"]
 cover:
-    image: "cover.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Ollama"
     caption: "Ollama"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

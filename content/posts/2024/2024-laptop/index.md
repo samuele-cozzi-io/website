@@ -4,7 +4,7 @@ title: "Build my new Laptop in 2024"
 date: 2024-01-15
 tags: ["developer"]
 cover:
-    image: "laptop.jpg"
+    image: "featured.jpg"
     alt: "Build my new Laptop in 2024"
     caption: "Build my new Laptop in 2024"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
@@ -88,6 +88,7 @@ A web browser is application software for accessing the World Wide Web. When a u
 #### Ollama Models
 
 [LLMs on your local machine - Prerequisites](../../llm-local/LLMs%20on%20your%20local%20machine%20-%20Prerequisites.md)
+
 #### QEMU/KVM
 
 [How to Install macOS in a Virtual Machine on Ubuntu Linux](../../../50.archive-articles/2024/How%20to%20Install%20macOS%20in%20a%20Virtual%20Machine%20on%20Ubuntu%20Linux.md) serves as a comprehensive guide for users looking to run macOS on Ubuntu through a virtual machine, covering all necessary steps and configurations.
@@ -98,8 +99,8 @@ A web browser is application software for accessing the World Wide Web. When a u
 - **[dotnet](https://dotnet.microsoft.com/en-us/)**: Free. Cross-platform. Open source. A developer platform for building all your apps.
 - **[nodejs](https://nodejs.org/en/)**: Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [anaconda](https://www.anaconda.com/): Anaconda is a popular open-source distribution of Python and R programming languages, primarily used for data science, machine learning, and scientific computing.
+
 ## Operating System
 
 - **[Windows](https://www.microsoft.com/en-us/windows/)**: Windows is a family of open-source operating systems designed for personal computers.
 - **[Ubuntu](https://www.ubuntu.com/)**: Ubuntu is a free and open-source Linux distribution.
-

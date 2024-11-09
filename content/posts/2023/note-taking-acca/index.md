@@ -4,7 +4,7 @@ title: "Note Taking Acca"
 date: 2023-09-15T20:53:23Z
 tags: ["notes"]
 cover:
-    image: "note-taking-Acca.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Note Taking Acca"
     caption: "Note Taking Acca"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

@@ -4,7 +4,7 @@ title: Llm Local
 date: 2024-07-15
 tags: ["developer", "notes"]
 cover:
-    image: "cover.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Hello Llama"
     caption: "Hello Llama"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

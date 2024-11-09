@@ -4,12 +4,11 @@ title: Agile vs. Waterfall in Software Engineering - Choosing the Right Approach
 date: 2024-05-15
 tags: ["developer"]
 cover:
-    image: "waterfall-vs-agile.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Waterfall vs Agile"
     caption: "Waterfall vs Agile"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 In software engineering, choosing the right project management methodology is crucial for success. Two of the most prominent methodologies are Agile and Waterfall. While both have their merits, they cater to different types of projects and team dynamics. This blog post will explore the key differences between Agile and Waterfall, their respective use cases, and the pros and cons of each approach.
 
 ## Understanding Agile and Waterfall Methodologies

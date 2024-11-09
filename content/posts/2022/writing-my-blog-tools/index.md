@@ -4,7 +4,7 @@ title: "Mastering the Art: How to Write a Good Blog Post"
 date: 2022-11-28T14:54:08Z
 tags: ["writing"]
 cover:
-    image: "sketchnote.excalidraw.png"
+    image: ".excalidraw.png"
     alt: "Obsidian + Marp"
     caption: "Obsidian + Marp"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

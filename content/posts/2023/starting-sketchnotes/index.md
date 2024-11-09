@@ -4,7 +4,7 @@ title: "Starting Sketchnotes"
 date: 2023-10-15T20:53:23Z
 tags: ["notes"]
 cover:
-    image: "starting-sketchnotes.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Starting Sketchnotes"
     caption: "Starting Sketchnotes"
     relative: true # To use relative path for cover image, used in hugo Page-bundles

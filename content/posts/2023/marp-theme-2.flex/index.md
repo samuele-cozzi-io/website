@@ -3,16 +3,16 @@ draft: false
 title: "Unleashing HTML & CSS Creativity: Explore Minimal Turquoise Marp  Template - The Flex"
 date: 2023-04-15T16:03:08Z
 cover:
-    image: "cover.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Marp Theme"
     caption: "Marp Minimal Turquoise Theme"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-{{< badge text="Marp" icon="images" href= "https://marp.app/" >}}
+{{< badge text="Marp" icon="images" href= "https://marp.app/" >}}{{< /badge >}}
 
-{{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}
+{{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}{{< /badge >}}
 
-{{< badge text="Obsidian Plugin" icon="tools" href= "https://github.com/samuele-cozzi/obsidian-marp-slides" >}}
+{{< badge text="Obsidian Plugin" icon="tools" href= "https://github.com/samuele-cozzi/obsidian-marp-slides" >}}{{< /badge >}}
 
 ---
 
