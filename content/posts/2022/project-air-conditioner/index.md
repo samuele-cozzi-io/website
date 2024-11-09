@@ -9,14 +9,13 @@ cover:
     caption: "Air Conditioner Azure Controller"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
+{{< badge text="IoT Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-iothub" >}}{{< /badge >}}
 
-{{< badge text="IoT Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-iothub" >}}
+{{< badge text="Functions Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-func" >}}{{< /badge >}}
 
-{{< badge text="Functions Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-func" >}}
+{{< badge text="UI Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-ui" >}}{{< /badge >}}
 
-{{< badge text="UI Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-ui" >}}
-
-{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f" >}}
+{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f" >}}{{< /badge >}}
 
 ---
 
