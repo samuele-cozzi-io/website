@@ -9,9 +9,9 @@ cover:
     caption: "Illuminating the Nativity Scene"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-{{< badge text="Code" icon="github" href= "https://github.com/samuele-cozzi/arduino-led-strip" >}}{{< /badge >}}
+{{< badge text="Code" icon="github" href= "https://github.com/samuele-cozzi/arduino-led-strip" >}}
 
-{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/illuminating-the-nativity-scene-for-christmas-7d1d88" >}}{{< /badge >}}
+{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/illuminating-the-nativity-scene-for-christmas-7d1d88" >}}
 
 ---
 
