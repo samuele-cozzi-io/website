@@ -3,6 +3,7 @@ draft: false
 title: "Illuminating the Nativity Scene"
 date: 2023-12-21T17:25:00Z
 tags: ["Projects", "hobby"]
+categories: ["Projects"]
 cover:
     image: "featured.png"
     alt: "Illuminating the Nativity Scene"

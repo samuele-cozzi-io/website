@@ -3,6 +3,7 @@ draft: false
 title: "Air Conditioner Azure Controller"
 date: 2022-09-01
 tags: ["Projects", "azure", "home automation"]
+categories: ["Projects"]
 cover:
     image: "attachments/_RWGl88BkQx.avif"
     alt: "Air Conditioner Azure Controller"

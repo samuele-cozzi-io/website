@@ -8,11 +8,11 @@ cover:
     caption: "Marp Minimal Turquoise Theme"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-{{< badge text="Marp" icon="images" href= "https://marp.app/" >}}{{< /badge >}}
+{{< button icon="images" href= "https://marp.app/" >}}Marp{{< /button >}}
 
-{{< badge text="VSCode Plugin" icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}{{< /badge >}}
+{{< button icon="vscode" href= "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode" >}}VS Code Plugin{{< /button >}}
 
-{{< badge text="Obsidian Plugin" icon="tools" href= "https://github.com/samuele-cozzi/obsidian-marp-slides" >}}{{< /badge >}}
+{{< button icon="tools" href= "https://github.com/samuele-cozzi/obsidian-marp-slides" >}}Obsidian Plugin{{< /button >}}
 
 ---
 
