@@ -2,7 +2,7 @@
 draft: false
 title: "Air Conditioner Azure Controller"
 date: 2022-09-01
-tags: ["Projects", "azure", "home automation"]
+tags: ["azure", "home automation"]
 categories: ["Projects"]
 cover:
     image: "attachments/_RWGl88BkQx.avif"
@@ -10,13 +10,18 @@ cover:
     caption: "Air Conditioner Azure Controller"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-{{< badge text="IoT Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-iothub" >}}{{< /badge >}}
 
-{{< badge text="Functions Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-func" >}}{{< /badge >}}
+{{< keywordList >}}
 
-{{< badge text="UI Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-ui" >}}{{< /badge >}}
+{{< button icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-iothub" target="_blank" >}}{{< icon "github" >}} IoT Code{{< /button >}}
 
-{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f" >}}{{< /badge >}}
+{{< button icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-func" target="_blank" >}}{{< icon "github" >}} Functions Code{{< /button >}}
+
+{{< button icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-ui" target="_blank">}}{{< icon "github" >}} UI Code{{< /button >}}
+
+{{< button icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f" target="_blank">}}{{< icon "link" >}} Hackster{{< /button >}}
+
+{{< /keywordList >}}
 
 ---
 
