@@ -2,6 +2,8 @@
 draft: false
 title: "Unleashing HTML & CSS Creativity: Exploring the New Theme for Marp"
 date: 2023-02-15T13:14:40Z
+series: ["marp theme for obsidian"]
+series_order: 1
 cover:
     image: "featured.excalidraw.png"
     alt: "Marp Theme"

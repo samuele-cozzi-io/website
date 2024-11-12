@@ -2,6 +2,8 @@
 draft: false
 title: "Unleashing HTML & CSS Creativity: Explore Minimal Turquoise Marp  Template - The Basics"
 date: 2023-03-15T16:02:44Z
+series: ["marp theme for obsidian"]
+series_order: 2
 cover:
     image: "featured.excalidraw.png"
     alt: "Marp Theme"

@@ -3,6 +3,8 @@ draft: false
 title: "Note Taking Tools"
 date: 2023-07-15T20:53:23Z
 tags: ["notes"]
+series: ["taking notes"]
+series_order: 5
 cover:
     image: "featured.excalidraw.png"
     alt: "Note Taking Tools"
@@ -12,6 +14,8 @@ cover:
 ## Note Taking Tools
 
 In the rapidly evolving landscape of digital tools, selecting the right software to enhance productivity and streamline workflows is crucial. This document provides an overview of various note-taking, collaborative, and cloud storage tools, highlighting key features and comparing them to notable competitors. By examining tools like Obsidian.md, Excalidraw, GitHub, and Dropbox, users can make informed decisions tailored to their specific needs and preferences.
+
+![featured](featured.excalidraw.png)
 
 ### Obsidian
 

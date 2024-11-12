@@ -3,6 +3,8 @@ draft: false
 title: "Note Taking Acca"
 date: 2023-09-15T20:53:23Z
 tags: ["notes"]
+series: ["taking notes"]
+series_order: 4
 cover:
     image: "featured.excalidraw.png"
     alt: "Note Taking Acca"
@@ -12,6 +14,8 @@ cover:
 ## AccA Flow
 
 Effective note-taking systems are essential for organizing information, managing tasks, and enhancing productivity. This document outlines the AccA (Arrange, Capture, Connect, Assemble) flow within a note-taking system, detailing the specific actions and their roles in optimizing note management. By understanding and implementing these actions, users can create a more structured, efficient, and collaborative environment for handling their notes and ideas.
+
+![featured](featured.excalidraw.png)
 
 ### Arrange Action in a Note taking System
 

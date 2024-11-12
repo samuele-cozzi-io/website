@@ -3,18 +3,16 @@ draft: true
 title: Llm Obsidian
 date: 2024-09-15
 tags: ["developer", "notes"]
+series: ["notes llm local"]
+series_order: 4
 cover:
     image: "featured.excalidraw.png"
     alt: "LLM Obsidian"
     caption: "LLM Obsidian"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-## Stories
 
-1. [LLM Local](../llm-local_prerequisites/index.md)
-2. [Hello Llama](../llm-local_hello-llama/index.md)
-3. [Hello LlamaIndex](../llm-local_hello-llamaIndex/index.md)
-4. **[Obsidian LLM](index.md)**
+![featured](featured.excalidraw.png)
 
 **How to Automate Your Daily Tasks**
 

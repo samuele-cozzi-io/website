@@ -50,6 +50,8 @@ The goal of the project is to control the air conditioner from the internet and 
 
 ## Abstract
 
+![Alt text](featured.png)
+
 The project consists in building an IoT system in the house connected to the cloud. The goal of the project is to control with infrared signals the air conditioner from the mobile website or in an automatic way. It is the first step in building my smart home hub on Azure.
 
 ## My project journey

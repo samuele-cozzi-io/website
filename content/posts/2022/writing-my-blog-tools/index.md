@@ -13,6 +13,8 @@ In the vast landscape of the internet, where content is king, the ability to cra
 
 ## Principles for writing a good blog post
 
+![text](./featured.excalidraw.png)
+
 Writing a good blog post goes beyond mere words on a screen; it's an art form that demands a delicate balance of creativity, strategy, and authenticity. In this age of content saturation, where the competition for readership is fierce, understanding and applying principles for writing a good blog post can be the key to standing out in the digital crowd.
 
 - Choose a Captivating Title

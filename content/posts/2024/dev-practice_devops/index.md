@@ -3,6 +3,8 @@ draft: true
 title: Bringing Better Products to End Users Faster - DevOps
 date: 2024-03-15
 tags: ["developer"]
+series: ["development practices"]
+series_order: 2
 cover:
     image: "featured.excalidraw.png"
     alt: "DEV-OPS"

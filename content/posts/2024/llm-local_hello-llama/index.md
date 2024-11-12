@@ -3,20 +3,18 @@ draft: true
 title: Llm Local
 date: 2024-07-15
 tags: ["developer", "notes"]
+series: ["notes llm local"]
+series_order: 2
 cover:
     image: "featured.excalidraw.png"
     alt: "Hello Llama"
     caption: "Hello Llama"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
+
 The idea of running LLMs on a personal computer is not entirely new. In fact, researchers and developers have been experimenting with this concept for several years. However, the recent advancements in computing power and software development have made it increasingly feasible to deploy these complex models on local machines.
 
-## Stories
-
-1. [LLM Local](../llm-local_prerequisites/index.md)
-2. **[Hello Llama](index.md)**
-3. [Hello LlamaIndex](../llm-local_hello-llamaIndex/index.md)
-4. [Obsidian LLM](../llm-obsidian/index.md)
+![featured](./featured.excalidraw.png)
 
 ## VS Code iPython Notebook
 

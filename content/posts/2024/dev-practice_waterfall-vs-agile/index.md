@@ -3,6 +3,8 @@ draft: true
 title: Agile vs. Waterfall in Software Engineering - Choosing the Right Approach for Your Project
 date: 2024-05-15
 tags: ["developer"]
+series: ["development practices"]
+series_order: 4
 cover:
     image: "featured.excalidraw.png"
     alt: "Waterfall vs Agile"

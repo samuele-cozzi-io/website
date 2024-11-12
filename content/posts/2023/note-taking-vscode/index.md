@@ -1,17 +1,20 @@
 ---
 draft: false
-title: "Note Taking Vscode"
+title: "How to Use VSCode as a Note-Taking Client with Markdown"
 date: 2023-11-15T20:53:23Z
 tags: ["notes"]
+series: ["taking notes"]
+series_order: 6
 cover:
     image: "featured.excalidraw.png"
     alt: "Note Taking VSCode"
     caption: "Note Taking VSCode"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-# How to Use VSCode as a Note-Taking Client with Markdown
 
 Visual Studio Code (VSCode) is a powerful, open-source code editor that can also serve as an excellent note-taking client. By leveraging its Markdown support and extensive extension ecosystem, you can transform VSCode into a robust alternative to proprietary note-taking apps like Obsidian. Here's a step-by-step guide to setting up my VSCode for taking notes in Markdown format.
+
+![featured](featured.excalidraw.png)
 
 ## Why Use VSCode for Note-Taking?
 

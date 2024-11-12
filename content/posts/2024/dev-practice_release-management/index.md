@@ -3,6 +3,8 @@ draft: true
 title: Understanding Release Management - Scheduled Releases vs. Continuous Deployment
 date: 2024-04-15
 tags: ["developer"]
+series: ["development practices"]
+series_order: 1
 cover:
     image: "featured.excalidraw.png"
     alt: "Release Management"

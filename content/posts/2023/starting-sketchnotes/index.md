@@ -13,6 +13,8 @@ cover:
 
 Sketchnoting is a visual note-taking process that combines hand-drawn elements and text to capture ideas in a more engaging and memorable way. Whether you're a student, a professional, or someone looking to boost your creativity, sketchnoting can be a valuable tool. Here's a guide to get you started with the essential elements of sketchnoting.
 
+![featured](featured.excalidraw.png)
+
 ## Color Palette
 
 Choosing a color palette is a critical first step in sketchnoting. A limited palette helps maintain consistency and clarity in your notes. Start with 3-5 colors: one for primary text, one for secondary text, and a few for highlights and embellishments. Black is often used for the main content, while brighter colors like blue, red, or green can be used to highlight important points or draw attention to specific areas.
