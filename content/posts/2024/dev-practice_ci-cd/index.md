@@ -3,13 +3,14 @@ draft: true
 title: Mastering CI/CD - A Pillar of Modern DevOps
 date: 2024-02-15
 tags: ["developer"]
+series: ["development practices"]
+series_order: 3
 cover:
-    image: "ci-cd.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "CI-CD"
     caption: "CI-CD"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
-
 In today's fast-paced software development environment, Continuous Integration (CI) and Continuous Delivery/Deployment (CD) have emerged as fundamental practices that enable teams to deliver high-quality software faster and more reliably. Let's explore the key aspects of CI/CD, their benefits, and the deployment strategies that help in achieving seamless software releases.
 
 ## Continuous Integration (CI)

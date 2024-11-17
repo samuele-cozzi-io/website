@@ -2,7 +2,8 @@
 draft: false
 title: "Air Conditioner Azure Controller"
 date: 2022-09-01
-tags: ["Projects", "azure", "home automation"]
+tags: ["azure", "home automation"]
+categories: ["Projects"]
 cover:
     image: "attachments/_RWGl88BkQx.avif"
     alt: "Air Conditioner Azure Controller"
@@ -10,13 +11,17 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-{{< badge text="IoT Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-iothub" >}}
+{{< keywordList >}}
 
-{{< badge text="Functions Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-func" >}}
+{{< button icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-iothub" target="_blank" >}}{{< icon "github" >}} IoT Code{{< /button >}}
 
-{{< badge text="UI Code" icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-ui" >}}
+{{< button icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-func" target="_blank" >}}{{< icon "github" >}} Functions Code{{< /button >}}
 
-{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f" >}}
+{{< button icon="github" href= "https://github.com/samuele-cozzi/my-smarthome-ui" target="_blank">}}{{< icon "github" >}} UI Code{{< /button >}}
+
+{{< button icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/air-conditioner-azure-controller-ebba5f" target="_blank">}}{{< icon "link" >}} Hackster{{< /button >}}
+
+{{< /keywordList >}}
 
 ---
 
@@ -44,6 +49,8 @@ The goal of the project is to control the air conditioner from the internet and 
 - [Github - My Smart Home - ui](https://github.com/samuele-cozzi/my-smarthome-ui)
 
 ## Abstract
+
+![Alt text](featured.png)
 
 The project consists in building an IoT system in the house connected to the cloud. The goal of the project is to control with infrared signals the air conditioner from the mobile website or in an automatic way. It is the first step in building my smart home hub on Azure.
 

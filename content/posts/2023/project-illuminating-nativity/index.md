@@ -2,17 +2,22 @@
 draft: false
 title: "Illuminating the Nativity Scene"
 date: 2023-12-21T17:25:00Z
-tags: ["Projects", "hobby"]
+tags: ["hobby"]
+categories: ["Projects"]
 cover:
-    image: "Nativity1.png"
+    image: "featured.png"
     alt: "Illuminating the Nativity Scene"
     caption: "Illuminating the Nativity Scene"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-{{< badge text="Code" icon="github" href= "https://github.com/samuele-cozzi/arduino-led-strip" >}}
+{{< keywordList >}}
 
-{{< badge text="Hackster" icon="bookmark" href= "https://www.hackster.io/samuele-cozzi/illuminating-the-nativity-scene-for-christmas-7d1d88" >}}
+{{< button href= "https://github.com/samuele-cozzi/arduino-led-strip" target="_blank">}}{{< icon "code" >}} Code{{< /button >}}
+
+{{< button href= "https://www.hackster.io/samuele-cozzi/illuminating-the-nativity-scene-for-christmas-7d1d88" target="_blank">}}{{< icon "link" >}} Hackster{{< /button >}}
+
+{{< /keywordList >}}
 
 ---
 
@@ -63,7 +68,7 @@ The day and night implementation in this project adopts a cyclic representation 
 
 ### Software Build
 
-The software for this project is crafted for efficiency and adaptability, leveraging the FastLED library to seamlessly communicate with the LED strip. FastLED proves invaluable in controlling the WS2812B Digital RGB LEDs, providing precise color manipulation and dynamic animation capabilities. This project takes advantage of the PlatformIO extension for Visual Studio Code, offering a streamlined development environment. 
+The software for this project is crafted for efficiency and adaptability, leveraging the FastLED library to seamlessly communicate with the LED strip. FastLED proves invaluable in controlling the WS2812B Digital RGB LEDs, providing precise color manipulation and dynamic animation capabilities. This project takes advantage of the PlatformIO extension for Visual Studio Code, offering a streamlined development environment.
 
 ![](attachments/Pasted%20image%2020231220120300.png)
 
@@ -72,10 +77,6 @@ The combination of FastLED and PlatformIO ensures smooth and responsive control 
 ![](attachments/Pasted%20image%2020231220120230.png)
 
 **Math Notes**
-
-{{< rawhtml >}}
-<embed src= 'attachments/day-night-cycle.pdf' width= '100%' height= '400px' type='application/pdf' />
-{{</ rawhtml >}}
 
 [ipynb](attachments/day-night-cycle.ipynb)
 

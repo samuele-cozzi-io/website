@@ -3,13 +3,17 @@ draft: false
 title: "Note-Taking for Every Situation"
 date: 2023-06-15T20:52:55Z
 tags: ["notes"]
+series: ["taking notes"]
+series_order: 3
 cover:
-    image: "note-taking-usecases.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Note Taking Use Cases"
     caption: "Note Taking Use Cases"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 Note-taking is a fundamental human activity, but its potential goes far beyond simply capturing fleeting thoughts. By understanding different use cases, you can transform your notes from a passive record to a powerful tool that fuels productivity, creativity, and knowledge accumulation. Let's delve into how strategic note-taking can supercharge various aspects of your life:
+
+![featured](featured.excalidraw.png)
 
 ## Personal Life & Private Management
 

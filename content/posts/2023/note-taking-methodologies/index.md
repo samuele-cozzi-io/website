@@ -3,13 +3,18 @@ draft: false
 title: "Note Taking Methodologies"
 date: 2023-05-15T20:53:23Z
 tags: ["notes"]
+series: ["taking notes"]
+series_order: 1
 cover:
-    image: "note-taking-methodologies.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Note Taking Methodologies"
     caption: "Note Taking Methodologies"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
+
 Note-taking is a crucial skill that helps individuals organize, retain and recall information. There are various note-taking methodologies that one can employ depending on the purpose, style and preference.
+
+![featured](featured.excalidraw.png)
 
 ## Methodologies
 

@@ -4,7 +4,7 @@ title: "Starting Sketchnotes"
 date: 2023-10-15T20:53:23Z
 tags: ["notes"]
 cover:
-    image: "starting-sketchnotes.excalidraw.png"
+    image: "featured.excalidraw.png"
     alt: "Starting Sketchnotes"
     caption: "Starting Sketchnotes"
     relative: true # To use relative path for cover image, used in hugo Page-bundles
@@ -12,6 +12,8 @@ cover:
 # How to Start Drawing Sketchnotes
 
 Sketchnoting is a visual note-taking process that combines hand-drawn elements and text to capture ideas in a more engaging and memorable way. Whether you're a student, a professional, or someone looking to boost your creativity, sketchnoting can be a valuable tool. Here's a guide to get you started with the essential elements of sketchnoting.
+
+![featured](featured.excalidraw.png)
 
 ## Color Palette
 
