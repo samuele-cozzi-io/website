@@ -5,8 +5,8 @@
     <defs>
     </defs>
     <style>
-    .primary { fill:#000 }
-    .secondary { fill:#ff5500 }
+    .primary { fill:#292524 }
+    .secondary { fill:#F97316 }
     .third { fill:#fff }
     </style>
     <rect x="0" y="0" width="100" height="100" class="third"/>
