@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Bringing Better Products to End Users Faster - DevOps
 date: 2024-03-15
 tags: ["developer"]

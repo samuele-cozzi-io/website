@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Mastering CI/CD - A Pillar of Modern DevOps
 date: 2024-02-15
 tags: ["developer"]

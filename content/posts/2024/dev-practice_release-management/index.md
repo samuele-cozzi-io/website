@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Understanding Release Management - Scheduled Releases vs. Continuous Deployment
 date: 2024-04-15
 tags: ["developer"]
