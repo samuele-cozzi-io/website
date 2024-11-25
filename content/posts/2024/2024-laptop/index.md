@@ -59,7 +59,7 @@ A web browser is application software for accessing the World Wide Web. When a u
 
 ### Tools
 
-- [VS Code](https://code.visualstudio.com/)  #linux #windows #macos: A standalone source code editor that runs on Windows, macOS, and Linux. The top pick for Java and web developers, with tons of extensions to support just about any programming language. [download](./files/download.zip)
+- [VS Code](https://code.visualstudio.com/)  #linux #windows #macos: A standalone source code editor that runs on Windows, macOS, and Linux. The top pick for Java and web developers, with tons of extensions to support just about any programming language. [download](./files/download.txt)
 - [Obsidian](https://obsidian.md/)  #linux #windows #macos: A second brain, for you, forever. Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [Docker](https://www.docker.com/)  #linux #windows #macos: Docker is a containerization technology that enables developers to build, ship, and run software containers.
 - [Ollama](https://ollama.com/)  #linux #windows #macos: Ollama is a platform designed to streamline the deployment and management of large language models (LLMs). The platform allows users to run LLMs locally on their devices, which means you can use powerful AI models without relying on cloud services.
