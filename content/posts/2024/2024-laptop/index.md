@@ -12,6 +12,8 @@ cover:
 # Build my Laptop in 2024
 
 [download](./files/note-v1-1.txt)
+[download2](./files/notepad-zip-v2.txt)
+[download3](./files/notepad-zip-v3.txt)
 
 ## Browsers
 
