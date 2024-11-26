@@ -11,6 +11,8 @@ cover:
 ---
 # Build my Laptop in 2024
 
+[download](./files/note-v1-1.txt)
+
 ## Browsers
 
 A web browser is application software for accessing the World Wide Web. When a user requests a web page from a particular website, the web browser retrieves the necessary content from a web server and then displays the page on the user's device. [wiki](https://en.wikipedia.org/wiki/Web_browser)
