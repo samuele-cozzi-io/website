@@ -77,3 +77,10 @@
   name = "Series"
   pageRef = "series"
   weight = 30
+
+[[footer]]
+  name = "BGJar"  
+  url = "https://bgjar.com"
+  weight = 40
+  [footer.params]
+      rel = 'external'

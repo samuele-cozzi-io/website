@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Hello LlamaIndex
 date: 2024-08-15
 tags: ["developer", "notes"]

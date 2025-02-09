@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Llm Local Prerequisites
 date: 2024-06-15
 tags: ["developer", "notes"]

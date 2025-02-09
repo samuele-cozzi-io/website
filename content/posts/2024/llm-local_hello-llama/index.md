@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Llm Local
 date: 2024-07-15
 tags: ["developer", "notes"]
