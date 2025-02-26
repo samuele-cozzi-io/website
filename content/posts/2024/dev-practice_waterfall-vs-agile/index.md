@@ -83,4 +83,4 @@ Whether you choose Agile, Waterfall, or a combination of both, the key is to tai
 
 ## References
 
-- [Understanding story points in Agile - Zapier](../../../../../50.archive-articles/2024/Understanding%20story%20points%20in%20Agile%20-%20Zapier.md)
+- [Understanding story points in Agile - Zapier](../../../../../storage/50a.articles/2024/Understanding%20story%20points%20in%20Agile%20-%20Zapier.md)
