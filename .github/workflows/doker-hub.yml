@@ -9,9 +9,14 @@
 
 name: Publish Docker image
 
+# on:
+#   release:
+#     types: [published]
 on:
-  release:
-    types: [published]
+  # Runs on pushes targeting the default branch
+  push:
+    branches:
+      - main
 
 jobs:
   push_to_registry:
