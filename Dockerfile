@@ -1,25 +1,30 @@
-# Stage 1
-FROM alpine:latest AS build
+FROM alpine:latest AS builder
 
+RUN apk add --no-cache git
 # Install the Hugo go app.
 RUN apk add --update hugo
 
-WORKDIR /opt/HugoApp
+# Set the working directory
+WORKDIR /src
 
-# Copy Hugo config into the container Workdir.
+# Copy the repository files (including .git for submodules)
 COPY . .
 
-# Run Hugo in the Workdir to generate HTML.
-RUN hugo 
+# Initialize and update submodules
+RUN git submodule update --init --recursive
 
-# Stage 2
-FROM nginx:1.25-alpine
+# Build the Hugo site
+RUN hugo --minify --destination /public
 
-# Set workdir to the NGINX default dir.
-WORKDIR /usr/share/nginx/html
 
-# Copy HTML from previous build into the Workdir.
-COPY --from=build /opt/HugoApp/public .
+# Use a lightweight web server for serving the static site
+FROM nginx:alpine
+
+# Copy built files from the Hugo build stage
+COPY --from=builder /public /usr/share/nginx/html
 
 # Expose port 80
-EXPOSE 80/tcp
+EXPOSE 80
+
+# Start Nginx
+CMD ["nginx", "-g", "daemon off;"]
