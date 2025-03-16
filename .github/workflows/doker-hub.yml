@@ -59,8 +59,8 @@ jobs:
           file: ./Dockerfile
           load: true
           push: true
-          platforms: linux/amd64,linux/arm
-          tags: samuelecozzi/blog:latest
+          platforms: linux/arm
+          tags: samuelecozzi/blog:arm-latest
           labels: ${{ steps.meta.outputs.labels }}
 
       - name: Generate artifact attestation
