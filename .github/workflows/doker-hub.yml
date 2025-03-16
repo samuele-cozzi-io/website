@@ -57,7 +57,7 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          load: true
+          #load: true
           push: true
           platforms: linux/arm
           tags: samuelecozzi/blog:arm-latest
