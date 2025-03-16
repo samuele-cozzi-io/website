@@ -50,6 +50,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
+          platforms: linux/amd64,linux/arm
           tags: samuelecozzi/blog:latest
           labels: ${{ steps.meta.outputs.labels }}
 
