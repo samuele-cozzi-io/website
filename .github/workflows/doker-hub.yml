@@ -28,6 +28,11 @@ jobs:
       attestations: write
       id-token: write
     steps:
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+        with:
+          platforms: linux/amd64,linux/arm
+        
       - name: Check out the repo
         uses: actions/checkout@v4
 
