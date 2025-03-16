@@ -46,7 +46,7 @@ jobs:
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
         with:
-          platforms: linux/arm
+          platforms: linux/amd64,linux/arm
 
       # - name: Set up Docker Buildx
       #   uses: docker/setup-buildx-action@v3
@@ -59,8 +59,8 @@ jobs:
           file: ./Dockerfile
           #load: true
           push: true
-          platforms: linux/arm
-          tags: samuelecozzi/blog:arm-latest
+          platforms: linux/amd64,linux/arm
+          tags: samuelecozzi/blog:latest
           labels: ${{ steps.meta.outputs.labels }}
 
       - name: Generate artifact attestation
