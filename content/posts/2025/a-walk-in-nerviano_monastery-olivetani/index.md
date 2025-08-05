@@ -1,7 +1,7 @@
 ---
 draft: true
 title: "Olivetani's Monastery"
-date: 2024-11-15
+date: 2025-12-15
 tags: ["art"]
 cover:
     image: "featured.excalidraw.png"

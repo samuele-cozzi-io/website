@@ -49,6 +49,8 @@ The object of the game is to checkmate the opponent; this occurs when the oppone
 
 Kings can castle once per game. Castling consists of moving the king two squares toward either rook of the same color, and then placing the rook on the square that the king crossed.
 
+![](./attachments/360px-ChessCastlingMovie_en.svg.png)
+
 Castling is possible only if the following conditions are met:
 
 - Neither the king nor the rook has previously moved during the game.
@@ -59,9 +61,10 @@ Castling is still permitted if the rook is under attack, or if the rook crosses 
 
 #### Special pawn moves
 
+![](./attachments/ChessPawnSpecialMoves.gif)
+
 - En passant: when a pawn makes a two-square advance to the same rank as an opponent's pawn on an adjacent file, that pawn can capture it en passant ("in passing"), moving to one square behind the captured pawn. A pawn can only be captured en passant on the turn after it makes a two-square advance. In the animated diagram, the black pawn advances two squares from g7 to g5, and the white pawn on f5 takes it en passant, landing on g6.
 - Promotion: when a pawn advances to its last rank, it is promoted and replaced with the player's choice of a queen, rook, bishop, or knight. Usually, pawns are promoted to queens; choosing another piece is called underpromotion.
-
 
 ### End of the Game
 
@@ -72,31 +75,51 @@ Castling is still permitted if the rook is under attack, or if the rook crosses 
 - Win on time: In games with a time control, a player wins if the opponent runs out of time, even if the opponent has a superior position, as long as the player has a theoretical possibility to checkmate the opponent were the game to continue.
 - Forfeit: A player who cheats, violates the rules, or violates the rules of conduct specified for the particular tournament can be forfeited. Occasionally, both players are forfeited.[2]
 
-
-
 ## Theory
 
-...
+Chess theory divides chess games into three phases with different sets of strategies: the opening, the middlegame, and lastly the endgame. There is no universally accepted way to delineate the three phases of the game; the middlegame is typically considered to have begun after 10–20 moves, and the endgame when only a few pieces remain.
+
+### Tactics
+
+Tactics are **short-term** sequences of moves that players use to gain an advantage. They often involve combinations, which are sequences of moves that lead to a specific goal, such as winning material or delivering checkmate. Common tactical motifs include forks, pins, skewers, discovered attacks, and double checks.
+Tactics are often used to exploit weaknesses in the opponent's position, such as unprotected pieces or vulnerable squares. Players must be able to recognize tactical opportunities and calculate variations to determine the best course of action.
+
+### Strategy
+
+Strategy refers to the **long-term** planning and positioning of pieces to achieve a favorable position. It involves understanding pawn structures, piece coordination, and controlling key squares on the board. Strategic concepts include space advantage, piece activity, and king safety.
+Players must develop their pieces harmoniously, control the center of the board, and create weaknesses in the opponent's position. Good strategic play often leads to tactical opportunities, and players must balance both aspects of the game to succeed.
+
+## Phases of the Game
+
+Chess games are divided into three phases: the opening, the middlegame, and the endgame. Each phase has its own strategies and tactics, and players must adapt their play accordingly.
 
 ### Openings
 
-...
+Sequences of opening moves are referred to as openings and are catalogued in reference works, such as the Encyclopaedia of Chess Openings. There are thousands of openings, though only a small fraction of them are commonly played.
+
+The fundamental strategic aims of most openings are similar:
+
+- Development: moving pieces (particularly bishops and knights) forward to squares on which they are useful (defending, attacking, and controlling important squares) or have the potential to take part in future plans and ideas.
+- Control of the center: control of the central squares allows pieces to be moved to any part of the board relatively easily, and can inhibit the mobility of the opponent's pieces.
+- King safety: typically secured by castling; incorrectly timed castling can be wasteful or even harmful, however.
+- Pawn structure: players strive to avoid the creation of pawn weaknesses such as isolated, doubled, or backward pawns – and to force such weaknesses in the opponent's position.
+
+Most players and theoreticians consider that White, by virtue of the initiative granted from moving first, begins the game with a small advantage. Black usually strives to neutralize White's advantage and achieve equality, or to develop dynamic counterplay in an unbalanced position.
 
 ### Middlegame
 
-...
-
-#### Tactics
-
-...
-
-#### Strategy
-
-...
+The middlegame is the part of the game that starts after the opening. Because the opening theory has ended, players have to form plans based on the features of the position, and at the same time take into account the tactical possibilities of the position. The middlegame is the phase in which most combinations occur. Combinations are a series of tactical moves executed to achieve some gain. Middlegame combinations are often connected with an attack against the opponent's king.
+The middlegame is also the stage of the game in which players often try to improve their position by maneuvering their pieces, exchanging pieces, and creating weaknesses in the opponent's position. Players may also try to create threats against the opponent's king or other important pieces.
 
 ### Endgame
 
-...
+The endgame (also end game or ending) is the stage of the game when there are few pieces left on the board. There are three main strategic differences between earlier stages of the game and the endgame:
+
+- Pawns become more important. Endgames often revolve around endeavors to promote a pawn by advancing it to the furthest rank.
+- The king, which requires safeguarding from attack during the middlegame, emerges as a strong piece in the endgame. It is often used to protect its own pawns, attack enemy pawns, and hinder moves of the opponent's king.
+- Zugzwang, a situation in which the player who is to move is forced to incur a disadvantage, is often a factor in endgames but rarely in other stages of the game. In the example diagram, either side having the move is in zugzwang: Black to move must play 1...Kb7 allowing White to promote the pawn after 2.Kd7; White to move must permit a draw, either by 1.Kc6 stalemate or by losing the pawn after any other legal move.
+
+Endgames can be classified according to the type of pieces remaining on the board. Basic checkmates are positions in which one side has only a king and the other side has one or two pieces and can checkmate the opposing king, with the pieces working together with their king. For example, king and pawn endgames involve only kings and pawns on one or both sides, and the task of the stronger side is to promote one of the pawns. Other more complicated endings are classified according to pieces on the board other than kings, such as "rook and pawn versus rook" endgames.
 
 ## References
 
