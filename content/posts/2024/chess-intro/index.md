@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: flase
 title: "Chess Intro"
 date: 2024-10-15
 tags: ["game"]
@@ -124,3 +124,8 @@ Endgames can be classified according to the type of pieces remaining on the boar
 ## References
 
 - [Chess Wiki](https://en.wikipedia.org/wiki/Chess)
+- [La logica degli scacchi - Sergio Luppi](https://www.hoeplieditore.it/hoepli-catalogo/articolo/la-logica-degli-scacchi-sergio-luppi/9788820344849/0458)
+
+---
+
+*Some bytes of this blog post were co-written with AI. The brain behind it is still very much human.*

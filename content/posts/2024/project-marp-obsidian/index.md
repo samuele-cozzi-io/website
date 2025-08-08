@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Create Beautiful Presentations with Obsidian + Marp"
 date: 2024-12-15T17:25:00Z
 tags: ["hobby"]
@@ -11,11 +11,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-{{< keywordList >}}
-
-{{< button href= "https://github.com/samuele-cozzi/obsidian-marp-slides" target="_blank">}}{{< icon "code" >}} Code{{< /button >}}
-
-{{< /keywordList >}}
+{{< github repo="samuele-cozzi/obsidian-marp-slides" showThumbnail=true >}}
   
 If you're like me and spend a lot of time in [Obsidian](https://obsidian.md/) — whether for note-taking, personal knowledge management, or writing — then you’ve probably wished you could turn your markdown notes into polished presentations without leaving your favorite app.
 
