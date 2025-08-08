@@ -220,3 +220,7 @@ With just Markdown files, a theme, and a bit of SVG magic, I’ve built a fully-
 * 🎨 Background Generator: [BGJar](https://bgjar.com/)
 * 📚 Hugo Docs: [gohugo.io](https://gohugo.io/)
 * 💡 Blowfish Theme: [blowfish.page](https://blowfish.page/)
+
+---
+
+*Some bytes of this blog post were co-written with AI. The brain behind it is still very much human.*
