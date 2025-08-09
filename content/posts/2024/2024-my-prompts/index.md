@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Supercharge Me with These AI Prompts v2024.0"
 date: 2024-11-15
 tags: ["notes", "ai"]
@@ -10,159 +10,7 @@ cover:
     relative: true # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-
 In today’s content-driven world, writing isn't just about words—it's about strategy, structure, and speed. Whether you're a solo blogger, content strategist, student, or business communicator, using an AI language model can significantly boost your productivity. But to get the best out of any large language model (LLM), **well-crafted prompts** are key.
-
-This post introduces a collection of **purpose-built prompts** designed to help you generate, evaluate, and refine content quickly and effectively. Think of it as your ultimate prompt toolbox—organized by task.
-
-This is your open canvas. Use it when you have a vague idea or need brainstorming help, definitions, or background information. The `{{context}}` is your query—what do you want to know?
-
----
-
-## 🧪 Evaluate and Improve: Rate the Quality
-
-Before publishing, run a quality check.
-
-```markdown
-# Rate Text Quality
-
-Give the reading level and rate the text based on some general metrics for writing
-
-{{context}}
-```
-
-This will help assess clarity, structure, grammar, and readability—giving you a quick audit on what works and what doesn't.
-
----
-
-## ✍️ Rewrite and Refine: Polish Your Drafts
-
-For clearer and more professional writing:
-
-```markdown
-# Rewrite the selected text
-
-I want you to act as a professional writer. I want you to use a formal tone. Rewrite the text to make it more simple, clear, with better flow, correct grammatical error, punctuation and style. Keep in mind I am a non-native English speaker. I want you to only reply the correction, the improvements and nothing else.
-
-{{context}}
-```
-
-This is especially useful for editing rough drafts, improving tone, and ESL writing support.
-
----
-
-## 🖥️ Conference Presentation Decks
-
-For planning out presentations:
-
-```markdown
-# Write a deck outline
-
-I want you to act as a professional deck writer to present in a conference. I want you to use a formal tone. You will need to research a given topic and create an outline of the deck.
-
-{{context}}
-```
-
-This helps create professional slide structures before diving into design.
-
----
-
-## 💼 Email Replies
-
-Nail professional tone in your communication:
-
-```markdown
-# Write a positive reply to the email
-
-I want you to act as a professional writer. I want you to use a formal tone. Reply to this email in professional way.
-
-{{context}}
-```
-
-Quickly draft polished, respectful responses.
-
----
-
-## 🧠 Brainstorm Mode
-
-When you're stuck for ideas:
-
-```markdown
-# Write brainstorm ideas
-
-Please generate brainstorm ideas
-
-{{context}}
-```
-
-Great for campaign planning, naming, content ideas, and more.
-
----
-
-## ✍️ Write Longer or Shorter
-
-Tailor your output by length:
-
-```markdown
-# Write 3-5 paragraphs
-
-{{context}}
-```
-
-```markdown
-# Write 1-3 phrases
-
-{{context}}
-```
-
-Use these when you need short bursts or medium-length content—customized to your audience or platform.
-
----
-
-## 🎓 Become a Better Writer
-
-Turn the AI into your personal tutor:
-
-```markdown
-# AI Writing Tutor
-
-I want you to act as an AI writing tutor. I will provide you with a student who needs help improving their writing and your task is to use artificial intelligence tools, such as natural language processing, to give the student feedback on how they can improve their composition. You should also use your rhetorical knowledge and experience about effective writing techniques in order to suggest ways that the student can better express their thoughts and ideas in written form.
-
-{{context}}
-```
-
-Perfect for students or professionals looking to improve their writing systematically.
-
----
-
-## Final Thoughts
-
-The power of AI lies not just in the model—but in the **prompts** you feed it. These templates give you a scalable, repeatable way to produce polished content without sacrificing quality. Whether you're publishing a blog, writing emails, or building a deck, using these structured prompts can save hours and improve outcomes.
-
-💡 **Tip**: Save your favorite prompts in a Notion database, text expander, or shortcut app to streamline your workflow.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Writing clear prompts is like giving directions to a co-pilot: the better the directions, the better the ride. Below is a compact, practical blog post you can copy/paste or adapt for your site. It’s organized by common use-cases and includes concrete prompts and brief notes on what to expect.
 
@@ -171,7 +19,6 @@ Writing clear prompts is like giving directions to a co-pilot: the better the di
 ## Prompt anatomy
 
 A reliable pattern you can reuse:
-**Role + Goal + Context + Constraints + Output format**
 
 - **[role]**: "Experienced creative writer",...
 - **[goal]**: "write a short story",...
@@ -183,7 +30,9 @@ A reliable pattern you can reuse:
 
 > *You are a \[role]. Help me \[goal]. Here’s the context: \[context]. Constraints: \[constraints]. Provide the final answer as: \[format].*
 
-## ✍️ Writing — stories, blog posts, newsletters
+---
+
+## ✍️ Creative Writing — stories, blog posts, newsletters
 
 **Use-case:** Generate a short story, blog intro, or newsletter blurb.
 
@@ -211,8 +60,6 @@ A reliable pattern you can reuse:
 > You are an experienced creative writer. Write a [length] [genre] about [topic]. Tone: [tone]. Include [elements: characters/themes]
 
 **Why it works:** Role + clear constraints (length, tone, setting) + one concrete image to anchor the story.
-
-**Expected output:** A polished short piece with a clear mood and an evocative closing line.
 
 ---
 
@@ -319,109 +166,194 @@ A reliable pattern you can reuse:
 
 ---
 
-## 💡 Brainstorming & ideation
+## ✒️ Writing Better — rewrite & improve text
 
-**Use-case:** Rapid idea generation (names, product features, marketing angles).
-
-**Template:**
-
-> You are a creative strategist. Generate \[N] ideas for \[goal]. Constraints: \[budget/tone/market]. For each idea provide one-line summary + one potential metric to measure success.
-
-**Example prompt:**
-
-> You are a creative strategist. Generate 12 marketing campaign ideas to grow signups for a language-learning app targeted at young professionals. Budget: modest. For each idea give a one-line summary and one metric to track.
-
-**Why it works:** Asking for many structured ideas plus a metric makes brainstorming usable.
+**Use-case:** Turn the AI into your personal writer tutor
 
 ---
 
-## 7) Customer support & email drafts
+### Rewrite and Refine: Polish Your Drafts
 
-**Use-case:** Draft empathetic support replies, escalation messages.
+For clearer and more professional writing:
 
 **Template:**
 
-> You are a customer support specialist. Reply to the user who says: “\[customer message]”. Tone: apologetic, helpful. Include: acknowledgement, explanation, concrete next steps, and a goodwill gesture (if appropriate). Keep it under \[X] words.
+> I want you to act as a [role]. I want you to use a [tone]. Rewrite the text to make it more simple, clear, with better flow, correct grammatical error, punctuation and style. Keep in mind I am a non-native English speaker. I want you to only reply the correction, the improvements and nothing else. [context]
 
-**Example prompt:**
+**[Role]:** "professional writer"
 
-> You are a customer support specialist. Reply to: “I was double-charged for my subscription and can’t reach billing.” Tone: apologetic and solution-oriented. Offer next steps and a small credit. Keep it under 120 words.
+**[Constraints]**
+
+- *[tone]*: "formal tone", "conversational tone", "concise"
+
+This is especially useful for editing rough drafts, improving tone, and ESL writing support.
+
+---
+
+### Evaluate and Improve: Rate the Quality
+
+Before publishing, run a quality check.
+
+**Template:**
+
+> Give the reading level and rate the text based on some general metrics for writing, and suggest improvements: [context]
+
+This will help assess clarity, structure, grammar, and readability—giving you a quick audit on what works and what doesn't.
+
+---
+
+### Become a Better Writer
+
+Turn the AI into your personal tutor:
+
+**Template:**
+
+> I want you to act as an [role]. I will provide you with a student who needs help improving their writing and your task is to use artificial intelligence tools, such as natural language processing, to give the student feedback on how they can improve their composition. You should also use your rhetorical knowledge and experience about effective writing techniques in order to suggest ways that the student can better express their thoughts and ideas in written form. [context]
+
+**[Role]:** "AI writing tutor"
+
+Perfect for students or professionals looking to improve their writing systematically.
+
+---
+
+## 💡 Brainstorming & ideation
+
+**Use-case:** Rapid generic idea generation
+
+> Please generate brainstorm ideas [context]
+
+---
+
+### Brainstorming Ideas @ Work
+
+**Template:**
+
+> You are a [role]. Generate [N] ideas for [goal]. Constraints: [budget/tone/market]. For each idea provide one-line summary + one potential metric to measure success.
+
+**[Role]:** "creative strategist"
+**[goal]**: "a new marketing campaign", "a product feature"
+
+**[Constraints]**
+
+- *[N]*: "10", "20"
+- *[budget]*: "under $500", "with a $10k budget"
+- *[tone]*: "formal tone", "conversational tone", "concise"
+- *[market]*: "B2B", "B2C", "non-profit"
+
+---
+
+### Conference Presentation Decks
+
+For planning out presentations:
+
+> I want you to act as a [role]. I want you to use a [tone]. You will need to research the [context] and create an [goal].
+
+**[Role]:** "professional deck writer to present in a conference"
+**[goal]**: "outline of the deck"
+
+**[Constraints]**
+
+- *[tone]*: "formal tone", "conversational tone", "concise"
+
+This helps create professional slide structures before diving into design.
+
+## ✉️ Email drafts
+
+**Use-case:** Draft empathetic replies, escalation messages.
+
+**Template:**
+
+> You are a [role]. Reply to the user who says: “[context]”. Tone: [tone]. Include: acknowledgement, explanation, concrete next steps. Keep it under [N] words.
+
+**[Role]:** "customer support specialist","professional email writer"
+
+**[Constraints]**
+
+- *[N]*: "100", "200"
+- *[tone]*: "formal tone", "apologetic", "helpful", "concise"
 
 **Expected output:** A concise empathetic response with instructions and compensation.
 
 ---
 
-## 8) Learning & tutoring
+## 🎓 Learning
 
 **Use-case:** Teach a concept, build quizzes, explain mistakes.
 
 **Template:**
 
-> You are a patient tutor. Teach \[concept] to someone at \[level]. Use analogies, one worked example, and a 5-question quiz (answers included).
+> You are a [role]. Teach [context] to someone at [level].
 
-**Example prompt:**
+**[Role]:** "patient tutor", "professional educator"
 
-> You are a patient tutor. Teach the concept of confidence intervals to an undergraduate student. Use a coffee-shop analogy, show one worked example with numbers, then produce a 5-question quiz with answers.
+**[Constraints]**
+
+- *[level]*: "undergraduate student"
 
 **Why it works:** Analogies + worked examples + quiz = teachable output.
 
 ---
 
-## 9) Meetings & productivity (agendas, summaries)
+### Learning & tutoring
 
-**Use-case:** Create meeting agenda, summarize long notes, craft follow-ups.
+**Use-case:** Teach a concept, build quizzes, explain mistakes.
 
 **Template:**
 
-> You are an executive assistant. Create a 30-minute meeting agenda to discuss \[topic] with \[roles]. Include timeboxes, 3 goals, and 2 prep materials. After the meeting create a 3-point follow up template.
+> You are a [role]. Teach [context] to someone at [level]. Use analogies, one worked example, and a 5-question quiz (answers included).
 
-**Example prompt:**
+**[Role]:** "patient tutor"
 
-> You are an executive assistant. Create a 30-minute meeting agenda for a product roadmap sync with PM and Engineering. Include timeboxes and 3 goals. Then provide a 3-line follow-up email template.
+**[Constraints]**
 
-**Expected output:** A tidy agenda + follow-up template.
+- *[level]*: "undergraduate student"
 
----
-
-## Quick reusable prompt bank (copy-paste)
-
-* **Blog outline:**
-
-  > You are a professional content strategist. Create a 7-point outline for a 1200-word blog post titled “\[TITLE]”. Include H2 headings and 1 sentence describing the point under each heading.
-
-* **Refactor code:**
-
-  > You are a senior dev. Refactor the following function for readability and performance. Provide the improved code and a one paragraph explanation.
-
-* **Extract insights from text:**
-
-  > You are an analyst. Read this meeting transcript and list 5 action items, each with an owner and due date suggestion.
-
-* **Product naming:**
-
-  > You are a brand strategist. Suggest 20 one-word product names for a premium plant care app. Provide a 1-word rationale for the top 5.
+**Why it works:** Analogies + worked examples + quiz = teachable output.
 
 ---
 
-## Practical tips — do’s & don’ts
+### Product Comparison
+
+**Use-case:** Compare products, features, or services.
+
+**Template:**
+
+> You are a [role]. Compare [product A] and [product B] in terms of [features/price/usability]. Provide a table with pros/cons for each.
+
+**[Role]:** "product analyst", "tech reviewer"
+
+**[Constraints]**
+
+- *[product A]*: "Product X"
+- *[product B]*: "Product Y"
+- *[features/price/usability]*: "features", "price", "usability"
+- *Include*: "pros/cons"
+
+**Expected output:** A structured comparison table with key insights.
+
+---
+
+## 🛠️ Practical tips — do’s & don’ts
 
 **Do**
 
-* Give context and constraints.
-* State the role you want the assistant to play.
-* Request format (list, JSON, steps).
-* Provide examples for tone/style when needed.
-* Ask for assumptions if the assistant needs to guess.
+- Give context and constraints.
+- State the role you want the assistant to play.
+- Request format (list, JSON, steps).
+- Provide examples for tone/style when needed.
+- Ask for assumptions if the assistant needs to guess.
 
 **Don’t**
 
-* Leave the task vague (“help me write”).
-* Ask multiple unrelated tasks without structure.
-* Assume the model remembers long previous prompts—restate important details.
+- Leave the task vague (“help me write”).
+- Ask multiple unrelated tasks without structure.
+- Assume the model remembers long previous prompts—restate important details.
 
 ---
 
-## Final thoughts (practical checklist)
+## ✅ Final thoughts (practical checklist)
+
+The power of AI lies not just in the model—but in the **prompts** you feed it. These templates give you a scalable, repeatable way to produce polished content without sacrificing quality. Whether you're publishing a blog, writing emails, or building a deck, using these structured prompts can save hours and improve outcomes.
 
 When you write a prompt, ask yourself:
 
@@ -430,6 +362,8 @@ When you write a prompt, ask yourself:
 3. What does the assistant need to know? (context)
 4. Any strict requirements? (format, length, style)
 5. Should the model show steps or only final output?
+
+💡 **Tip**: Save your favorite prompts in a Obsidian database, text expander, or shortcut app to streamline your workflow.
 
 ---
 
