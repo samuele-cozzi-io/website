@@ -2,12 +2,13 @@
 draft: false
 title: "Obsidian + Marp: Elevating Note Presentations (without Power Point)"
 date: 2023-01-15T10:47:03Z
-tags: ["markdown", "notes"]
+tags:
+  - markdown
 cover:
-    image: "featured.excalidraw.png"
-    alt: "Obsidian + Marp"
-    caption: "Obsidian + Marp"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: Obsidian + Marp
+  caption: Obsidian + Marp
+  relative: true
 ---
 In the ever-evolving landscape of note-taking and presentation tools, enthusiasts are always on the lookout for innovative solutions that seamlessly integrate into their workflow. Enter Obsidian and Marp - an extraordinary power duo that transforms the way we present and share our notes.
 

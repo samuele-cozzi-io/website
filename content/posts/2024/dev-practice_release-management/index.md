@@ -2,14 +2,16 @@
 draft: false
 title: Understanding Release Management - Scheduled Releases vs. Continuous Deployment
 date: 2024-04-15
-tags: ["developer"]
-series: ["development practices"]
+tags:
+  - code
+series:
+  - development practices
 series_order: 1
 cover:
-    image: "featured.excalidraw.png"
-    alt: "Release Management"
-    caption: "Release Management"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: Release Management
+  caption: Release Management
+  relative: true
 ---
 Release management is a crucial aspect of software development that governs how new features, updates, and bug fixes are delivered to end users. Two primary approaches dominate the landscape: **Scheduled Releases** and **Continuous Deployment**. Each method has its own set of advantages, disadvantages, and suitable use cases. Understanding these differences can help teams choose the right strategy for their specific needs.
 

@@ -2,14 +2,16 @@
 draft: true
 title: "My Git Workflow: Common Tips for a Smooth Git Experience"
 date: 2025-03-15
-tags: ["developer"]
-series: ["git workflow"]
+tags:
+  - code
+series:
+  - git workflow
 series_order: 2
 cover:
-    image: "featured.excalidraw.png"
-    alt: "GIT WORKFLOW"
-    caption: "GIT WORKFLOW"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: GIT WORKFLOW
+  caption: GIT WORKFLOW
+  relative: true
 ---
 
 In [Part 1](../my-gitflow-1-common/index.md), I shared the core practices that form the foundation of my Git workflow, focusing on structure, stability, and collaboration. This second part moves from the fundamentals to more practical advice, aimed at refining daily work and ensuring the workflow adapts naturally to both the team’s habits and the business’s release rhythms.

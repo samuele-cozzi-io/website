@@ -2,14 +2,17 @@
 draft: false
 title: Llm Local Prerequisites
 date: 2024-06-15
-tags: ["developer", "notes"]
-series: ["notes llm local"]
+tags:
+  - notes
+  - code
+series:
+  - notes llm local
 series_order: 1
 cover:
-    image: "featured.excalidraw.png"
-    alt: "Ollama"
-    caption: "Ollama"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: Ollama
+  caption: Ollama
+  relative: true
 ---
 
 ![featured](featured.excalidraw.png)

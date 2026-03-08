@@ -1,14 +1,18 @@
 ---
 draft: false
-title: "Building Samuele’s Space with Hugo & Blowfish"
+title: Building Samuele’s Space with Hugo & Blowfish
 date: 2021-12-15T17:25:00Z
-tags: ["hobby", "developer", "architecture", "markdown"]
-categories: ["Projects"]
+tags:
+  - markdown
+  - tech-architecture
+  - code
+categories:
+  - Projects
 cover:
-    image: "featured1.excalidraw.png"
-    alt: "Building Samuele’s Space with Hugo & Blowfish"
-    caption: "Building Samuele’s Space with Hugo & Blowfish"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured1.excalidraw.png
+  alt: Building Samuele’s Space with Hugo & Blowfish
+  caption: Building Samuele’s Space with Hugo & Blowfish
+  relative: true
 ---
 
 I built my personal blog **Samuele’s Space** using [Hugo](https://gohugo.io/), a fast and flexible static site generator, combined with the [Blowfish](https://blowfish.page/) theme for modern styling. My goal was a fast, lightweight, and easily maintainable blog with a sleek design and minimal effort to deploy – and Hugo delivered exactly that.

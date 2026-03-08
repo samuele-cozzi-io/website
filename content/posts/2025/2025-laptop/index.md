@@ -1,13 +1,14 @@
 ---
 draft: false
-title: "Building My New Developer Laptop in 2025"
+title: Building My New Developer Laptop in 2025
 date: 2025-01-15
-tags: ["developer"]
+tags:
+  - code
 cover:
-    image: "featured.excalidraw.png"
-    alt: "Build my new Laptop in 2025"
-    caption: "Build my new Laptop in 2025"
-    relative: true
+  image: featured.excalidraw.png
+  alt: Build my new Laptop in 2025
+  caption: Build my new Laptop in 2025
+  relative: true
 ---
 
 Setting up a brand new laptop is one of my favorite rituals as a developer. It’s like moving into a new apartment — everything is clean, minimal, and full of possibilities. This time in 2025, I decided to document every tool, app, and extension I installed — partly so I can repeat it in the future, partly so I can share it with anyone building their own developer machine.
@@ -30,14 +31,14 @@ This is my daily driver. Open-source, privacy-focused, and with extension suppor
 #### 🔌 Browser Extensions
 
 **Tools**
-- [**AdBlocker Ultimate**](https://adblockultimate.net/) #firefox – Keeps my web pages clean and clutter-free. No exceptions, no whitelists.  
+- [**AdBlocker Ultimate**](https://adblockultimate.net/) #browser – Keeps my web pages clean and clutter-free. No exceptions, no whitelists.  
 - [**Enpass**](https://www.enpass.io/) #linux #windows #macos #android – My password vault. I like it because I control where the data lives — cloud, WebDAV, or offline.
 
 **Productivity**
 - [**Raindrop.io**](http://Raindrop.io) #android #web – My bookmark brain. Neat collections, tags, and sync across devices.  
 - [**Karakeep**](https://karakeep.app/) #android #web – My self-hosted “read-it-later” list.  
 - [**Todoist**](https://todoist.com/home) #android #web – Keeps my tasks in check, both work and personal.  
-- [**Firefox Multi-Account Containers**](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) #firefox – A life-saver for juggling multiple logins without switching browsers.
+- [**Firefox Multi-Account Containers**](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) #browser – A life-saver for juggling multiple logins without switching browsers.
 
 #### 📑 Firefox Sidebar
 

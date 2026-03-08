@@ -2,14 +2,16 @@
 draft: true
 title: "My Git Workflow: Feature Branching in Practice"
 date: 2025-04-15
-tags: ["developer"]
-series: ["git workflow"]
+tags:
+  - code
+series:
+  - git workflow
 series_order: 3
 cover:
-    image: "featured.excalidraw.png"
-    alt: "GIT WORKFLOW"
-    caption: "GIT WORKFLOW"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: GIT WORKFLOW
+  caption: GIT WORKFLOW
+  relative: true
 ---
 
 The **Feature Branch Workflow** is built on one simple principle: all new development should happen in its own dedicated branch rather than directly on the `main` branch. By isolating work, developers can collaborate freely without breaking production-ready code. This keeps `main` clean, stable, and always deployable—an approach that fits perfectly with continuous integration and continuous delivery (CI/CD) environments.

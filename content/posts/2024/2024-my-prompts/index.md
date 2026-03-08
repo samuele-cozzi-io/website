@@ -1,13 +1,14 @@
 ---
 draft: false
-title: "Supercharge Me with These AI Prompts v2024.0"
+title: Supercharge Me with These AI Prompts v2024.0
 date: 2024-11-15
-tags: ["notes", "ai"]
+tags:
+  - artificial-intelligence
 cover:
-    image: "featured.excalidraw.png"
-    alt: "My Prompts v2024.0"
-    caption: "My Prompts v2024.0"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: My Prompts v2024.0
+  caption: My Prompts v2024.0
+  relative: true
 ---
 
 In today’s content-driven world, writing isn't just about words—it's about strategy, structure, and speed. Whether you're a solo blogger, content strategist, student, or business communicator, using an AI language model can significantly boost your productivity. But to get the best out of any large language model (LLM), **well-crafted prompts** are key.

@@ -2,14 +2,17 @@
 draft: false
 title: Llm Obsidian
 date: 2024-09-15
-tags: ["developer", "notes"]
-series: ["notes llm local"]
+tags:
+  - notes
+  - code
+series:
+  - notes llm local
 series_order: 4
 cover:
-    image: "featured.excalidraw.png"
-    alt: "LLM Obsidian"
-    caption: "LLM Obsidian"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: LLM Obsidian
+  caption: LLM Obsidian
+  relative: true
 ---
 
 ![featured](featured.excalidraw.png)

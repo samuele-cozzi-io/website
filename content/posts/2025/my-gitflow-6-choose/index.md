@@ -2,14 +2,16 @@
 draft: true
 title: "My Git Workflow: Choose the Right Workflow"
 date: 2025-06-15
-tags: ["developer"]
-series: ["git workflow"]
+tags:
+  - code
+series:
+  - git workflow
 series_order: 5
 cover:
-    image: "featured.excalidraw.png"
-    alt: "GIT WORKFLOW"
-    caption: "GIT WORKFLOW"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: GIT WORKFLOW
+  caption: GIT WORKFLOW
+  relative: true
 ---
 
 Got it — I’ll base **Part 5** of your series on *Choosing the Right Workflow* using the ideas from your attached diagram.

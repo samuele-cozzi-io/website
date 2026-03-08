@@ -2,14 +2,16 @@
 draft: true
 title: "My Git Workflow: Part 1: Common Practices I Live By"
 date: 2025-02-15
-tags: ["developer"]
-series: ["git workflow"]
+tags:
+  - code
+series:
+  - git workflow
 series_order: 1
 cover:
-    image: "featured.excalidraw.png"
-    alt: "GIT WORKFLOW"
-    caption: "GIT WORKFLOW"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: GIT WORKFLOW
+  caption: GIT WORKFLOW
+  relative: true
 ---
 
 When I first started using Git, I thought it was just about committing changes and pushing them somewhere "safe". But over the years, I’ve learned that **how** you use Git is just as important as using it at all.

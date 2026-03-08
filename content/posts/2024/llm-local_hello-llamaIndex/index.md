@@ -2,14 +2,17 @@
 draft: false
 title: Hello LlamaIndex
 date: 2024-08-15
-tags: ["developer", "notes"]
-series: ["notes llm local"]
+tags:
+  - notes
+  - code
+series:
+  - notes llm local
 series_order: 3
 cover:
-    image: "featured.excalidraw.png"
-    alt: "Hello Llama Index"
-    caption: "Hello Llama Index"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: Hello Llama Index
+  caption: Hello Llama Index
+  relative: true
 ---
 This notebook is designed to demonstrate how to build a document-based AI interaction system using the LlamaIndex library with the Ollama Models on the local machine. The project is structured to guide users through configuring and deploying a retrieval-augmented generation (RAG) model that can read, understand, and summarize text from documents. The core idea is to leverage the power of AI for tasks such as querying specific information from a collection of texts and summarizing large amounts of data.
 

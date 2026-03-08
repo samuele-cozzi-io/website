@@ -2,14 +2,16 @@
 draft: true
 title: "My Git Workflow: Develop Branching"
 date: 2025-05-15
-tags: ["developer"]
-series: ["git workflow"]
+tags:
+  - code
+series:
+  - git workflow
 series_order: 4
 cover:
-    image: "featured.excalidraw.png"
-    alt: "GIT WORKFLOW"
-    caption: "GIT WORKFLOW"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.excalidraw.png
+  alt: GIT WORKFLOW
+  caption: GIT WORKFLOW
+  relative: true
 ---
 
 Here’s **Part 4** of your Git Workflow series on **Gitflow / Develop Workflow**, polished for blog readability, with clear bullet points where useful while keeping your structure intact.

@@ -1,15 +1,14 @@
 ---
 draft: false
-title: "Build my new Laptop in 2021"
+title: Build my new Laptop in 2021
 date: 2021-12-21
-tags: ["developer"]
+tags:
+  - code
 cover:
-    image: "featured.ales-nesetril-Im7lZjxeLhg-unsplash.jpg"
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "<text>"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.ales-nesetril-Im7lZjxeLhg-unsplash.jpg
+  alt: <alt text>
+  caption: <text>
+  relative: true
 ---
 ## Browser
 

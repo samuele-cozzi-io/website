@@ -1,13 +1,14 @@
 ---
 draft: false
-title: "Build my new Laptop in 2024"
+title: Build my new Laptop in 2024
 date: 2024-01-15
-tags: ["developer"]
+tags:
+  - code
 cover:
-    image: "featured.jpg"
-    alt: "Build my new Laptop in 2024"
-    caption: "Build my new Laptop in 2024"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: featured.jpg
+  alt: Build my new Laptop in 2024
+  caption: Build my new Laptop in 2024
+  relative: true
 ---
 # Build my Laptop in 2024
 
@@ -26,7 +27,7 @@ A web browser is application software for accessing the World Wide Web. When a u
 
 #### Tools
 
-- [AdBlocker Ultimate](https://adblockultimate.net/) #firefox: AdBlocker Ultimate is a free web browser extension, which blocks all annoying ads with no exceptions. Unlike its rivals it doesn't come with a predefined whitelist.
+- [AdBlocker Ultimate](https://adblockultimate.net/) #browser: AdBlocker Ultimate is a free web browser extension, which blocks all annoying ads with no exceptions. Unlike its rivals it doesn't come with a predefined whitelist.
 - [Enpass](https://www.enpass.io/) : Enpass enables you to store and sync passwords and passkeys wherever is best for you — iCloud, Google Drive, OneDrive, Box, Dropbox, NextCloud, WebDAV, or completely offline.
 
 #### Productivity
@@ -34,11 +35,11 @@ A web browser is application software for accessing the World Wide Web. When a u
 - [Raindrop.io](https://raindrop.io/) : All-in-one bookmark manager. Intuitive. Powerful. Runs everywhere.
 - [Omnivore](https://omnivore.app/)  : Omnivore is the free, open source, read-it-later app for serious readers.
 - [Todoist](https://todoist.com/home)  : A To-Do List to Organize Your Work & Life
-- [Firefox Multi-Account Container](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) #firefox: The Firefox Multi-Account Containers extension lets you carve out a separate box for each of your online lives – no more opening a different browser just to check your work email! Here is a quick video showing you how it works.
+- [Firefox Multi-Account Container](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) #browser: The Firefox Multi-Account Containers extension lets you carve out a separate box for each of your online lives – no more opening a different browser just to check your work email! Here is a quick video showing you how it works.
 
 #### Layout
 
-- [Sidebery](https://github.com/mbnuqw/sidebery) #firefox: Firefox extension for managing tabs and bookmarks in sidebar.
+- [Sidebery](https://github.com/mbnuqw/sidebery) #browser: Firefox extension for managing tabs and bookmarks in sidebar.
 - [Firefox Hide Native Tabs and Titlebar](../../../50.archive-articles/2022/Firefox%20Hide%20Native%20Tabs%20and%20Titlebar.md)
 
 ## Apps

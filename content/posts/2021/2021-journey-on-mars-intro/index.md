@@ -1,15 +1,15 @@
 ---
 draft: true
-title: "Journey on Mars Intro"
+title: Journey on Mars Intro
 date: 2021-11-30T19:43:41+01:00
-tags: ["developer","architecture"]
+tags:
+  - tech-architecture
+  - code
 cover:
-    image: "cover.jpg"
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "nasa"
-    relative: true # To use relative path for cover image, used in hugo Page-bundles
+  image: cover.jpg
+  alt: <alt text>
+  caption: nasa
+  relative: true
 ---
 
 
